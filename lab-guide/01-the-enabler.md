@@ -11,6 +11,22 @@ This is also your warm-up with Cortex Code (CoCo): you ask in plain English, and
 
 Throughout this guide, `<nn>` is the number in your username (for example `USER07` → `07`).
 
+## About the data
+
+Everything in this lab is **synthetic**. A generator script created a fictional 10-team league with ~150 hitters and a full 162-game season, so there is no real player, team, or game data. The columns and value ranges are modeled on **MLB Statcast bat tracking** (the Hawk-Eye metrics published on Baseball Savant): bat speed, swing length, attack angle, exit velocity, launch angle, pitch type, and zone.
+
+Typical values you will see:
+
+| Metric | Typical value |
+|--------|---------------|
+| Bat speed | ~70 mph average (individual hitters range roughly 61-82) |
+| Swing length | ~7 ft |
+| Attack angle | ~12° |
+| Exit velocity | ~88 mph average |
+| Pitch mix | Four-seam 35%, slider 20%, changeup 15%, curve 12%, sinker 10%, cutter 8% |
+
+A few rules are simplified compared with real Statcast; Module 2 points them out. The data also contains a few planted data quality problems and some hidden player storylines. Finding them is your job in the modules ahead.
+
 ## Steps
 
 ### Step 1: Open Cortex Code
