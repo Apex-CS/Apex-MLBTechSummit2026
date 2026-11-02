@@ -109,9 +109,11 @@ Then ask a first question about the data:
 
 Give CoCo this prompt:
 
-> Show me the DDL for SWING_DOCTOR_<nn>.RAW.STG_SWINGS and the grants on my database. How would I rebuild this foundation on my own Snowflake account?
+> Show me the DDL for SWING_DOCTOR_<nn>.RAW.STG_SWINGS and the grants on my database. Then explain how I would rebuild this foundation on my own Snowflake trial account using the lab's public repo, https://github.com/Apex-CS/Apex-MLBTechSummit2026. Its setup/trial folder has five scripts run in order: 00_bootstrap_account.sql (roles, warehouse, database, Cortex and Streamlit grants), 01_create_schemas.sql, 02_create_raw_tables.sql, 03_stage_and_load.sql (internal stage plus COPY INTO from the repo's data/ CSVs, uploaded through Snowsight), and 04_verify_load.sql. Summarize what each script does in one or two sentences. Do not run anything, and do not suggest data shares, Marketplace listings, or external downloads.
 
-The scripts in `setup/trial/` in the lab repo show how to build this same foundation from scratch on your own Snowflake account: roles, an X-Small warehouse, the database and schemas, the landing tables, and a stage with `COPY INTO` loads. The lab team used the same pattern here, then cloned one loaded database for every attendee with zero-copy cloning, so all 150 copies share one set of storage.
+CoCo should describe a five-step rebuild that uses only the repo: run the bootstrap and schema scripts, create the tables, upload the CSVs from `data/` to the stage and run `COPY INTO`, then verify the row counts. Everything you need is in the repo you downloaded at kickoff. If CoCo starts proposing shares, external data sources, or asking you to contact an administrator, remind it: "Use only the setup/trial scripts and data/ CSVs from the lab repo."
+
+The lab team used the same pattern on this account, then cloned one loaded database for every attendee with zero-copy cloning, so all 150 copies share one set of storage.
 
 ## What you just built
 
