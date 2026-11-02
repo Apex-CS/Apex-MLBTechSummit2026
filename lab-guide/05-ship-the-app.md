@@ -30,20 +30,23 @@ CoCo will generate a complete Python file. Review the code — it should have im
 
 Give CoCo this prompt:
 
-> Deploy this Streamlit app to Snowflake in SWING_DOCTOR_<nn>.CORE on the container runtime (SYSTEM$ST_CONTAINER_RUNTIME_PY3_11) using compute pool SYSTEM_COMPUTE_POOL_CPU, warehouse SWING_DOCTOR_WH, and artifact repository SNOWFLAKE.SNOWPARK.PYPI_SHARED_REPOSITORY, and title 'Swing Doctor <nn>'. Upload app/pyproject.toml from the lab repo next to the app file.
+> Deploy this Streamlit app to SWING_DOCTOR_<nn>.CORE. Do these steps in order and run each one; do not stop to ask me to upload anything:
+> 1. Create the stage CORE.STREAMLIT_STAGE if it does not exist.
+> 2. Write the app code to the stage as swing_doctor.py.
+> 3. Read app/pyproject.toml from the lab's public repo, https://github.com/Apex-CS/Apex-MLBTechSummit2026, and write the same contents to the stage as pyproject.toml.
+> 4. Run LIST on the stage to confirm both files are there.
+> 5. Create the app with CREATE STREAMLIT CORE.SWING_DOCTOR_APP FROM '@CORE.STREAMLIT_STAGE', MAIN_FILE = 'swing_doctor.py', RUNTIME_NAME = 'SYSTEM$ST_CONTAINER_RUNTIME_PY3_11', COMPUTE_POOL = SYSTEM_COMPUTE_POOL_CPU, QUERY_WAREHOUSE = SWING_DOCTOR_WH, ARTIFACT_REPOSITORIES = (SNOWFLAKE.SNOWPARK.PYPI_SHARED_REPOSITORY), TITLE = 'Swing Doctor <nn>'.
+> 6. Run ALTER STREAMLIT CORE.SWING_DOCTOR_APP ADD LIVE VERSION FROM LAST.
 
-CoCo will:
-1. Create a stage for the app files
-2. Upload the Python file and `pyproject.toml` to the stage
-3. Run `CREATE STREAMLIT` to deploy it
+> **Checkpoint:** Run `SHOW STREAMLITS IN SCHEMA CORE;` — you should see `SWING_DOCTOR_APP`. If it is not there, CoCo stopped before deploying. Check whether the stage exists (`SHOW STAGES IN SCHEMA CORE;`), then either ask CoCo to "continue from the step that did not finish" or deploy manually below.
 
-Alternatively, you can deploy manually:
+**Manual deploy (if CoCo does not finish):**
 
 ```sql
 CREATE STAGE IF NOT EXISTS CORE.STREAMLIT_STAGE;
 ```
 
-Upload two files to the stage: in Snowsight go to **Data** > **Databases** > **SWING_DOCTOR_<nn>** > **CORE** > **Stages** > **STREAMLIT_STAGE**, click **+ Files**, and upload the Python file CoCo generated (named `swing_doctor.py`) plus `app/pyproject.toml` from the lab repo. The container runtime will not start without `pyproject.toml`. Then run:
+Upload two files to the stage: in Snowsight go to **Data** > **Databases** > **SWING_DOCTOR_<nn>** > **CORE** > **Stages** > **STREAMLIT_STAGE**, click **+ Files**, and upload the Python file CoCo generated (named `swing_doctor.py`) plus `app/pyproject.toml` from the lab files you downloaded at kickoff. The container runtime will not start without `pyproject.toml`. Then run:
 
 ```sql
 LIST @CORE.STREAMLIT_STAGE;  -- should show swing_doctor.py and pyproject.toml
@@ -57,8 +60,9 @@ CREATE STREAMLIT IF NOT EXISTS CORE.SWING_DOCTOR_APP
     ARTIFACT_REPOSITORIES = (SNOWFLAKE.SNOWPARK.PYPI_SHARED_REPOSITORY)
     TITLE = 'Swing Doctor <nn>'
     COMMENT = 'Swing Doctor — bat tracking early warning system';
-```
 
+ALTER STREAMLIT CORE.SWING_DOCTOR_APP ADD LIVE VERSION FROM LAST;
+```
 > The first launch takes 1–3 minutes while the container builds. If Snowsight shows "The selected compute pool is unable to start your app," wait a minute and refresh.
 
 ### Step 3: Open and test the app
