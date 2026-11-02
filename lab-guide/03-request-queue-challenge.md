@@ -19,6 +19,8 @@ CoCo will generate a `CREATE SEMANTIC VIEW` statement. Review it and run it.
 
 > **Checkpoint:** Run `DESCRIBE SEMANTIC VIEW CORE.SV_SWING_DOCTOR;` — you should see the entities and measures listed.
 
+> **Note:** CoCo may point out that PITCH has no game date or game number, so chase rate cannot be broken out by game or by "since the All-Star break" yet, and offer to add a GAME entity. That is expected: the five challenge questions do not need it, so decline the offer and move on to Step 2.
+
 ### Step 2: The challenge
 
 Five questions. Answer them as fast as you can using CoCo and the semantic view. For each question, give CoCo the question in plain English and let it generate and run the SQL.
