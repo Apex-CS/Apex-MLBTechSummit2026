@@ -37,6 +37,8 @@ Give CoCo this prompt:
 
 CoCo will write a `CREATE OR REPLACE SECURE VIEW` statement with a CTE for deduplication and a CASE expression for contact quality.
 
+> **Why a secure view?** A secure view hides its SQL definition from anyone who can query it but does not own it, and it stops the optimizer from using shortcuts that could reveal rows the view filters out. In this lab you own everything, so it changes little today. In a club, though, trusted metrics get shared with coaches, scouts, and front-office analysts: secure views let you share the results without exposing the logic or the underlying tables. Every view in this lab is secure to model that habit. The trade-off is that the optimizer has less freedom, so very large secure views can run a little slower.
+
 > **Why fouls get their own bucket:** fouls carry exit velocity and launch angle in this data, but contact quality (barrel, hard-hit) is a batted-ball measure, so it is graded on balls in play only.
 >
 > **Simplifications (synthetic data):** the barrel rule here is a fixed 98+ mph at 26-30 degrees; real Statcast barrels widen the launch-angle window as exit velocity rises. Zones 1-9 are the strike zone and 10-14 are out of zone; Statcast numbers its out-of-zone areas 11-14.
