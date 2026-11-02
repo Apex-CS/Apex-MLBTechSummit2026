@@ -1,0 +1,10 @@
+[project]
+name = "swing-doctor"
+version = "0.1.0"
+requires-python = ">=3.11"
+# Unpinned: satisfied by the packages pre-installed in the container runtime
+dependencies = [
+    "streamlit[snowflake]",
+    "altair",
+    "pandas",
+]

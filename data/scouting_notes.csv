@@ -1,0 +1,433 @@
+NOTE_ID,HITTER_ID,SCOUT_NAME,NOTE_DT,NOTE_TEXT
+SN-0001,H-001,Bill Russo,2026-07-22,Scott West is chasing more pitches out of the zone. Discipline has slipped in the last few weeks. No major red flags. Scott West is putting together competitive at-bats.
+SN-0002,H-001,Ken Carson,2026-08-15,Mechanics look clean. Scott West has a compact swing with good extension through contact. Pitch selection is fine. Scott West will chase occasionally but generally lays off bad pitches.
+SN-0003,H-002,Dave Dawkins,2026-07-19,No major red flags. Travis Davis is putting together competitive at-bats.
+SN-0004,H-002,Steve Edwards,2026-08-11,Consistent mechanics. Travis Davis does not change much game to game.
+SN-0005,H-002,Hank Gordon,2026-09-04,Consistent mechanics. Travis Davis does not change much game to game. Bat looks a touch slower lately. Travis Davis is getting to fastballs late and fouling them off.
+SN-0006,H-003,Ted Dawkins,2026-03-30,Discipline at the plate is elite. Gabriel Murphy rarely chases and punishes mistakes in the zone.
+SN-0007,H-003,Dave Carson,2026-06-15,Athletic swing. Gabriel Murphy uses his lower half well and generates bat speed efficiently.
+SN-0008,H-004,Bill Ortega,2026-05-20,Struggling with velocity. Mark Clark is behind on fastballs and not making hard contact. Bat looks quick through the zone. Mark Clark is driving the ball well to all fields.
+SN-0009,H-004,Ken Klein,2026-06-04,Not staying back on off-speed. Mark Clark is lunging and losing power on contact.
+SN-0010,H-004,Larry Bailey,2026-06-06,Bat looks quick through the zone. Mark Clark is driving the ball well to all fields.
+SN-0011,H-004,Joe Thornton,2026-08-17,Bat looks a touch slower lately. Mark Clark is getting to fastballs late and fouling them off.
+SN-0012,H-005,Larry Ortega,2026-04-01,"Workmanlike at-bats. Leo Fisher fights off tough pitches and puts the ball in play. Leo Fisher has a repeatable swing. Nothing jumps off the page, but nothing concerning either."
+SN-0013,H-005,Vince Quinn,2026-07-17,Bat looks a touch slower lately. Leo Fisher is getting to fastballs late and fouling them off.
+SN-0014,H-006,Steve Gordon,2026-05-03,Struggling with velocity. Jesse Robinson is behind on fastballs and not making hard contact. Average bat speed and contact quality. Jesse Robinson is a solid but not spectacular hitter.
+SN-0015,H-006,Jim Monroe,2026-07-04,Struggling with velocity. Jesse Robinson is behind on fastballs and not making hard contact.
+SN-0016,H-007,Joe Gordon,2026-04-06,Power numbers are trending up. Will Dixon has found a swing plane that produces hard contact.
+SN-0017,H-007,Larry Bailey,2026-05-31,"Will Dixon has made an adjustment to a more upward swing path. Early returns are encouraging. Will Dixon has a repeatable swing. Nothing jumps off the page, but nothing concerning either."
+SN-0018,H-007,Tom Thornton,2026-07-06,Struggling with velocity. Will Dixon is behind on fastballs and not making hard contact.
+SN-0019,H-008,Mike Russo,2026-05-01,The swing change is paying off. Victor Powell is getting under the ball more and driving it with authority.
+SN-0020,H-008,Walt Palmer,2026-05-09,The bat speed just is not there right now. Victor Powell looks like he is swinging through molasses.
+SN-0021,H-009,Walt Nash,2026-04-25,Contact quality has dropped. Nick Howard is rolling over on pitches and hitting weak grounders.
+SN-0022,H-009,Bob Quinn,2026-05-09,Struggling with velocity. Nick Howard is behind on fastballs and not making hard contact. Bat looks a touch slower lately. Nick Howard is getting to fastballs late and fouling them off.
+SN-0023,H-009,Ed Carson,2026-07-13,The swing change is paying off. Nick Howard is getting under the ball more and driving it with authority. Swing has gotten long. Nick Howard is wrapping the bat and losing bat speed through the zone.
+SN-0024,H-009,Ted Nash,2026-07-29,Athletic swing. Nick Howard uses his lower half well and generates bat speed efficiently. Solid approach at the plate. Nick Howard is laying off tough pitches and staying within the strike zone.
+SN-0025,H-010,Bob Quinn,2026-04-30,No major red flags. Ray Dawson is putting together competitive at-bats.
+SN-0026,H-010,Ken Adams,2026-07-02,Power numbers are trending up. Ray Dawson has found a swing plane that produces hard contact. Approach is league average. Ray Dawson swings at strikes and takes balls at a normal rate.
+SN-0027,H-010,Rick Gordon,2026-07-14,Power numbers are trending up. Ray Dawson has found a swing plane that produces hard contact.
+SN-0028,H-011,Joe Quinn,2026-04-11,Bat looks a touch slower lately. Ethan Drake is getting to fastballs late and fouling them off. Workmanlike at-bats. Ethan Drake fights off tough pitches and puts the ball in play.
+SN-0029,H-011,Hank Jenkins,2026-06-20,Approach is league average. Ethan Drake swings at strikes and takes balls at a normal rate.
+SN-0030,H-012,Mike Sherman,2026-04-02,Chase rate has been creeping up. Michael Johnson swings at too many pitcher's pitches.
+SN-0031,H-012,Ed Nash,2026-07-22,Swing has gotten long. Michael Johnson is wrapping the bat and losing bat speed through the zone.
+SN-0032,H-012,Ed Bailey,2026-07-30,Bat looks a touch slower lately. Michael Johnson is getting to fastballs late and fouling them off.
+SN-0033,H-013,Larry Sherman,2026-04-23,The swing change is paying off. Rico Russell is getting under the ball more and driving it with authority. Bat looks quick through the zone. Rico Russell is driving the ball well to all fields.
+SN-0034,H-013,Bob Monroe,2026-05-22,Struggling with velocity. Rico Russell is behind on fastballs and not making hard contact.
+SN-0035,H-013,Ed Gordon,2026-06-02,Power numbers are trending up. Rico Russell has found a swing plane that produces hard contact. Workmanlike at-bats. Rico Russell fights off tough pitches and puts the ball in play.
+SN-0036,H-013,Mike Lambert,2026-07-31,Consistent mechanics. Rico Russell does not change much game to game. Swing has gotten long. Rico Russell is wrapping the bat and losing bat speed through the zone.
+SN-0037,H-014,Gary Dawkins,2026-06-14,Swing has gotten long. Grant Anderson is wrapping the bat and losing bat speed through the zone. Pitch selection is fine. Grant Anderson will chase occasionally but generally lays off bad pitches.
+SN-0038,H-014,Joe Russo,2026-07-10,Swing has gotten long. Grant Anderson is wrapping the bat and losing bat speed through the zone. Steady performer. Grant Anderson is doing what he always does - consistent at-bats with average power.
+SN-0039,H-014,Joe Quinn,2026-08-25,Swing has gotten long. Grant Anderson is wrapping the bat and losing bat speed through the zone. Workmanlike at-bats. Grant Anderson fights off tough pitches and puts the ball in play.
+SN-0040,H-015,Gary Franklin,2026-04-25,Average bat speed and contact quality. Jesse Harris is a solid but not spectacular hitter.
+SN-0041,H-015,Bob Jenkins,2026-05-29,"Jesse Harris is chasing more pitches out of the zone. Discipline has slipped in the last few weeks. Jesse Harris has a repeatable swing. Nothing jumps off the page, but nothing concerning either."
+SN-0042,H-015,Rick Sherman,2026-07-24,Exit velocities have been consistently hard. Jesse Harris is barreling the ball at a high rate.
+SN-0043,H-015,Larry Carson,2026-08-27,Chase rate has been creeping up. Jesse Harris swings at too many pitcher's pitches. Consistent mechanics. Jesse Harris does not change much game to game.
+SN-0044,H-016,Joe Thornton,2026-06-16,Discipline at the plate is elite. Thomas Davis rarely chases and punishes mistakes in the zone.
+SN-0045,H-016,Steve Russo,2026-08-31,Pitch selection is fine. Thomas Davis will chase occasionally but generally lays off bad pitches.
+SN-0046,H-017,Bob Jenkins,2026-04-16,Bat looks quick through the zone. David Price is driving the ball well to all fields. Bat looks quick through the zone. David Price is driving the ball well to all fields.
+SN-0047,H-017,Pat Thornton,2026-07-23,Approach is league average. David Price swings at strikes and takes balls at a normal rate.
+SN-0048,H-017,Frank Sherman,2026-08-13,David Price is chasing more pitches out of the zone. Discipline has slipped in the last few weeks.
+SN-0049,H-018,Bill Franklin,2026-06-01,Swing has gotten long. Luke Oliver is wrapping the bat and losing bat speed through the zone. Solid approach at the plate. Luke Oliver is laying off tough pitches and staying within the strike zone.
+SN-0050,H-018,Tom Sherman,2026-07-05,Athletic swing. Luke Oliver uses his lower half well and generates bat speed efficiently.
+SN-0051,H-018,Tom Lambert,2026-08-10,Mechanics look clean. Luke Oliver has a compact swing with good extension through contact. Workmanlike at-bats. Luke Oliver fights off tough pitches and puts the ball in play.
+SN-0052,H-018,Bob Jenkins,2026-08-29,Mechanics look clean. Luke Oliver has a compact swing with good extension through contact. Bat looks quick through the zone. Luke Oliver is driving the ball well to all fields.
+SN-0053,H-019,Mike Russo,2026-06-10,Not staying back on off-speed. Caleb Abbott is lunging and losing power on contact. Caleb Abbott is expanding the zone more than usual. Chasing breaking balls down and away.
+SN-0054,H-019,Gary Franklin,2026-08-15,"Approach is league average. Caleb Abbott swings at strikes and takes balls at a normal rate. Caleb Abbott has a repeatable swing. Nothing jumps off the page, but nothing concerning either."
+SN-0055,H-019,Hank Gordon,2026-09-04,Swing has gotten long. Caleb Abbott is wrapping the bat and losing bat speed through the zone.
+SN-0056,H-020,Hank Thornton,2026-05-08,Spencer Harper has made an adjustment to a more upward swing path. Early returns are encouraging. Steady performer. Spencer Harper is doing what he always does - consistent at-bats with average power.
+SN-0057,H-020,Gary Russo,2026-06-26,Steady performer. Spencer Harper is doing what he always does - consistent at-bats with average power.
+SN-0058,H-020,Ken Franklin,2026-08-08,Swing has gotten long. Spencer Harper is wrapping the bat and losing bat speed through the zone.
+SN-0059,H-020,Steve Sherman,2026-08-14,Swing has gotten long. Spencer Harper is wrapping the bat and losing bat speed through the zone. Steady performer. Spencer Harper is doing what he always does - consistent at-bats with average power.
+SN-0060,H-021,Ted Russo,2026-04-16,Workmanlike at-bats. Ray Nelson fights off tough pitches and puts the ball in play. Approach is league average. Ray Nelson swings at strikes and takes balls at a normal rate.
+SN-0061,H-021,Pat Irving,2026-05-09,Pitch selection is fine. Ray Nelson will chase occasionally but generally lays off bad pitches.
+SN-0062,H-022,Hank Ortega,2026-04-04,Workmanlike at-bats. Weston Scott fights off tough pitches and puts the ball in play. Steady performer. Weston Scott is doing what he always does - consistent at-bats with average power.
+SN-0063,H-022,Ted Carson,2026-04-20,Swing has gotten long. Weston Scott is wrapping the bat and losing bat speed through the zone.
+SN-0064,H-022,Bob Adams,2026-05-25,Average bat speed and contact quality. Weston Scott is a solid but not spectacular hitter.
+SN-0065,H-023,Vince Quinn,2026-04-02,The swing change is paying off. Chris Wilson is getting under the ball more and driving it with authority.
+SN-0066,H-023,Pat Bailey,2026-04-12,Steady performer. Chris Wilson is doing what he always does - consistent at-bats with average power. Bat looks quick through the zone. Chris Wilson is driving the ball well to all fields.
+SN-0067,H-023,Bill Bailey,2026-07-18,Chase rate has been creeping up. Chris Wilson swings at too many pitcher's pitches.
+SN-0068,H-023,Tom Sherman,2026-08-10,Chris Wilson is chasing more pitches out of the zone. Discipline has slipped in the last few weeks. Bat looks a touch slower lately. Chris Wilson is getting to fastballs late and fouling them off.
+SN-0069,H-024,Charlie Adams,2026-04-13,Mechanics look clean. Corey Evans has a compact swing with good extension through contact. Approach is league average. Corey Evans swings at strikes and takes balls at a normal rate.
+SN-0070,H-024,Charlie Adams,2026-06-02,Struggling with velocity. Corey Evans is behind on fastballs and not making hard contact. No major red flags. Corey Evans is putting together competitive at-bats.
+SN-0071,H-024,Vince Quinn,2026-07-26,Approach is league average. Corey Evans swings at strikes and takes balls at a normal rate. No major red flags. Corey Evans is putting together competitive at-bats.
+SN-0072,H-025,Ed Quinn,2026-08-13,Connor Stone is chasing more pitches out of the zone. Discipline has slipped in the last few weeks. No major red flags. Connor Stone is putting together competitive at-bats.
+SN-0073,H-025,Bob Hayes,2026-08-27,Swing has gotten long. Connor Stone is wrapping the bat and losing bat speed through the zone.
+SN-0074,H-026,Frank Ortega,2026-03-29,"Zach Chapman has a repeatable swing. Nothing jumps off the page, but nothing concerning either."
+SN-0075,H-026,Walt Bailey,2026-05-20,The bat speed just is not there right now. Zach Chapman looks like he is swinging through molasses. Approach is league average. Zach Chapman swings at strikes and takes balls at a normal rate.
+SN-0076,H-026,Pat Nash,2026-06-10,Zach Chapman is chasing more pitches out of the zone. Discipline has slipped in the last few weeks.
+SN-0077,H-026,Tom Edwards,2026-07-14,Mechanics look clean. Zach Chapman has a compact swing with good extension through contact. Steady performer. Zach Chapman is doing what he always does - consistent at-bats with average power.
+SN-0078,H-027,Joe Klein,2026-05-15,The bat speed just is not there right now. Andre Bennett looks like he is swinging through molasses.
+SN-0079,H-027,Bob Ortega,2026-06-29,"Andre Bennett has a repeatable swing. Nothing jumps off the page, but nothing concerning either."
+SN-0080,H-027,Ken Edwards,2026-08-14,No major red flags. Andre Bennett is putting together competitive at-bats. Pitch selection is fine. Andre Bennett will chase occasionally but generally lays off bad pitches.
+SN-0081,H-028,Walt Russo,2026-06-06,Launch angles are flat. Chase Silva is beating the ball into the ground instead of driving it.
+SN-0082,H-028,Steve Adams,2026-08-26,Contact quality has dropped. Chase Silva is rolling over on pitches and hitting weak grounders. Pitch selection is fine. Chase Silva will chase occasionally but generally lays off bad pitches.
+SN-0083,H-029,Hank Edwards,2026-06-08,The swing change is paying off. Kevin Moore is getting under the ball more and driving it with authority.
+SN-0084,H-029,Ed Hayes,2026-06-18,Steady performer. Kevin Moore is doing what he always does - consistent at-bats with average power.
+SN-0085,H-029,Charlie Russo,2026-07-25,Pitch selection is fine. Kevin Moore will chase occasionally but generally lays off bad pitches.
+SN-0086,H-030,Frank Palmer,2026-08-02,Steady performer. Josh Blair is doing what he always does - consistent at-bats with average power. Pitch selection is fine. Josh Blair will chase occasionally but generally lays off bad pitches.
+SN-0087,H-030,Walt Sherman,2026-08-07,The swing change is paying off. Josh Blair is getting under the ball more and driving it with authority.
+SN-0088,H-031,Dave Quinn,2026-08-05,Struggling with velocity. Preston Taylor is behind on fastballs and not making hard contact. Mechanics look clean. Preston Taylor has a compact swing with good extension through contact.
+SN-0089,H-031,Ken Klein,2026-08-23,Consistent mechanics. Preston Taylor does not change much game to game. Bat looks a touch slower lately. Preston Taylor is getting to fastballs late and fouling them off.
+SN-0090,H-032,Bill Klein,2026-05-06,"No major red flags. Rafael Green is putting together competitive at-bats. Rafael Green has a repeatable swing. Nothing jumps off the page, but nothing concerning either."
+SN-0091,H-032,Charlie Nash,2026-06-19,The bat speed just is not there right now. Rafael Green looks like he is swinging through molasses. Workmanlike at-bats. Rafael Green fights off tough pitches and puts the ball in play.
+SN-0092,H-032,Rick Gordon,2026-07-16,Mechanics look clean. Rafael Green has a compact swing with good extension through contact.
+SN-0093,H-032,Bill Nash,2026-08-21,The swing change is paying off. Rafael Green is getting under the ball more and driving it with authority.
+SN-0094,H-033,Walt Russo,2026-03-30,Swing has gotten long. Jordan Marshall is wrapping the bat and losing bat speed through the zone. Workmanlike at-bats. Jordan Marshall fights off tough pitches and puts the ball in play.
+SN-0095,H-033,Walt Palmer,2026-06-03,Power numbers are trending up. Jordan Marshall has found a swing plane that produces hard contact.
+SN-0096,H-034,Ted Jenkins,2026-04-04,Pitch selection is fine. Shane Porter will chase occasionally but generally lays off bad pitches.
+SN-0097,H-034,Walt Gordon,2026-05-27,Athletic swing. Shane Porter uses his lower half well and generates bat speed efficiently.
+SN-0098,H-035,Ed Gordon,2026-05-03,Swing has gotten long. Chase Sullivan is wrapping the bat and losing bat speed through the zone.
+SN-0099,H-035,Jim Edwards,2026-05-21,"Chase Sullivan has a repeatable swing. Nothing jumps off the page, but nothing concerning either."
+SN-0100,H-035,Walt Edwards,2026-06-12,Chase Sullivan is chasing more pitches out of the zone. Discipline has slipped in the last few weeks.
+SN-0101,H-035,Bob Bailey,2026-07-15,Launch angles are flat. Chase Sullivan is beating the ball into the ground instead of driving it. Solid approach at the plate. Chase Sullivan is laying off tough pitches and staying within the strike zone.
+SN-0102,H-036,Ted Gordon,2026-05-29,Chase rate has been creeping up. Ethan Alvarez swings at too many pitcher's pitches.
+SN-0103,H-036,Dave Klein,2026-06-29,"Launch angles are flat. Ethan Alvarez is beating the ball into the ground instead of driving it. Ethan Alvarez has a repeatable swing. Nothing jumps off the page, but nothing concerning either."
+SN-0104,H-036,Ed Franklin,2026-08-30,"Struggling with velocity. Ethan Alvarez is behind on fastballs and not making hard contact. Ethan Alvarez has a repeatable swing. Nothing jumps off the page, but nothing concerning either."
+SN-0105,H-037,Hank Edwards,2026-07-26,Steady performer. Simon Gray is doing what he always does - consistent at-bats with average power.
+SN-0106,H-037,Dave Bailey,2026-08-11,Struggling with velocity. Simon Gray is behind on fastballs and not making hard contact.
+SN-0107,H-037,Gary Quinn,2026-08-29,Good pitch recognition. Simon Gray is not expanding the zone and making pitchers work deep into counts.
+SN-0108,H-038,Frank Bailey,2026-06-22,"Remy Warren has a repeatable swing. Nothing jumps off the page, but nothing concerning either."
+SN-0109,H-038,Hank Monroe,2026-07-07,Average bat speed and contact quality. Remy Warren is a solid but not spectacular hitter. No major red flags. Remy Warren is putting together competitive at-bats.
+SN-0110,H-038,Gary Monroe,2026-08-29,Mechanics look clean. Remy Warren has a compact swing with good extension through contact.
+SN-0111,H-039,Ted Dawkins,2026-08-21,Good pitch recognition. Miles Ward is not expanding the zone and making pitchers work deep into counts. Solid approach at the plate. Miles Ward is laying off tough pitches and staying within the strike zone.
+SN-0112,H-039,Bill Irving,2026-08-22,Good pitch recognition. Miles Ward is not expanding the zone and making pitchers work deep into counts. Workmanlike at-bats. Miles Ward fights off tough pitches and puts the ball in play.
+SN-0113,H-040,Mike Quinn,2026-05-05,Workmanlike at-bats. Chris Davis fights off tough pitches and puts the ball in play. Swing has gotten long. Chris Davis is wrapping the bat and losing bat speed through the zone.
+SN-0114,H-040,Dave Irving,2026-05-08,Bat looks quick through the zone. Chris Davis is driving the ball well to all fields. Workmanlike at-bats. Chris Davis fights off tough pitches and puts the ball in play.
+SN-0115,H-040,Joe Quinn,2026-06-03,The bat speed just is not there right now. Chris Davis looks like he is swinging through molasses. No major red flags. Chris Davis is putting together competitive at-bats.
+SN-0116,H-040,Frank Klein,2026-07-13,Consistent mechanics. Chris Davis does not change much game to game. Bat looks a touch slower lately. Chris Davis is getting to fastballs late and fouling them off.
+SN-0117,H-041,Steve Hayes,2026-03-31,Bat looks quick through the zone. Remy Campbell is driving the ball well to all fields.
+SN-0118,H-041,Frank Sherman,2026-04-24,"Workmanlike at-bats. Remy Campbell fights off tough pitches and puts the ball in play. Remy Campbell has a repeatable swing. Nothing jumps off the page, but nothing concerning either."
+SN-0119,H-041,Bob Hayes,2026-06-01,Struggling with velocity. Remy Campbell is behind on fastballs and not making hard contact.
+SN-0120,H-041,Ken Sherman,2026-07-10,Discipline at the plate is elite. Remy Campbell rarely chases and punishes mistakes in the zone. Average bat speed and contact quality. Remy Campbell is a solid but not spectacular hitter.
+SN-0121,H-042,Charlie Franklin,2026-05-22,Jacob Knight is expanding the zone more than usual. Chasing breaking balls down and away.
+SN-0122,H-042,Jim Franklin,2026-09-02,Power numbers are trending up. Jacob Knight has found a swing plane that produces hard contact. Approach is league average. Jacob Knight swings at strikes and takes balls at a normal rate.
+SN-0123,H-043,Dave Palmer,2026-04-07,Bat looks quick through the zone. Garrett Jones is driving the ball well to all fields.
+SN-0124,H-043,Tom Monroe,2026-05-15,Steady performer. Garrett Jones is doing what he always does - consistent at-bats with average power. Average bat speed and contact quality. Garrett Jones is a solid but not spectacular hitter.
+SN-0125,H-044,Vince Carson,2026-05-02,Not staying back on off-speed. Gabriel Porter is lunging and losing power on contact.
+SN-0126,H-044,Dave Dawkins,2026-05-19,Bat looks a touch slower lately. Gabriel Porter is getting to fastballs late and fouling them off. Pitch selection is fine. Gabriel Porter will chase occasionally but generally lays off bad pitches.
+SN-0127,H-044,Mike Quinn,2026-05-29,Discipline at the plate is elite. Gabriel Porter rarely chases and punishes mistakes in the zone. Workmanlike at-bats. Gabriel Porter fights off tough pitches and puts the ball in play.
+SN-0128,H-044,Gary Ortega,2026-08-22,Gabriel Porter has made an adjustment to a more upward swing path. Early returns are encouraging.
+SN-0129,H-045,Frank Thornton,2026-05-12,Contact quality has dropped. Chase Cruz is rolling over on pitches and hitting weak grounders.
+SN-0130,H-045,Steve Quinn,2026-05-31,Contact quality has dropped. Chase Cruz is rolling over on pitches and hitting weak grounders. Average bat speed and contact quality. Chase Cruz is a solid but not spectacular hitter.
+SN-0131,H-046,Pat Ortega,2026-04-06,Launch angles are flat. Omar Robinson is beating the ball into the ground instead of driving it.
+SN-0132,H-046,Joe Hayes,2026-07-18,Chase rate has been creeping up. Omar Robinson swings at too many pitcher's pitches.
+SN-0133,H-046,Tom Klein,2026-08-02,Approach is league average. Omar Robinson swings at strikes and takes balls at a normal rate.
+SN-0134,H-046,Dave Jenkins,2026-08-15,Approach is league average. Omar Robinson swings at strikes and takes balls at a normal rate. Solid approach at the plate. Omar Robinson is laying off tough pitches and staying within the strike zone.
+SN-0135,H-047,Frank Jenkins,2026-06-27,"Swing has gotten long. Remy Johnson is wrapping the bat and losing bat speed through the zone. Remy Johnson has a repeatable swing. Nothing jumps off the page, but nothing concerning either."
+SN-0136,H-047,Pat Irving,2026-07-12,Remy Johnson is expanding the zone more than usual. Chasing breaking balls down and away. Pitch selection is fine. Remy Johnson will chase occasionally but generally lays off bad pitches.
+SN-0137,H-047,Hank Bailey,2026-08-01,"Bat looks a touch slower lately. Remy Johnson is getting to fastballs late and fouling them off. Remy Johnson has a repeatable swing. Nothing jumps off the page, but nothing concerning either."
+SN-0138,H-048,Ken Irving,2026-04-22,Pitch selection is fine. Xavier Bennett will chase occasionally but generally lays off bad pitches. Consistent mechanics. Xavier Bennett does not change much game to game.
+SN-0139,H-048,Bob Edwards,2026-08-15,Struggling with velocity. Xavier Bennett is behind on fastballs and not making hard contact.
+SN-0140,H-048,Gary Lambert,2026-08-22,Xavier Bennett has made an adjustment to a more upward swing path. Early returns are encouraging. Mechanics look clean. Xavier Bennett has a compact swing with good extension through contact.
+SN-0141,H-049,Frank Adams,2026-07-20,Bat looks a touch slower lately. Tanner Drake is getting to fastballs late and fouling them off.
+SN-0142,H-049,Ken Irving,2026-09-01,Struggling with velocity. Tanner Drake is behind on fastballs and not making hard contact.
+SN-0143,H-050,Mike Thornton,2026-04-12,Bat looks quick through the zone. Michael Morgan is driving the ball well to all fields. Bat looks quick through the zone. Michael Morgan is driving the ball well to all fields.
+SN-0144,H-050,Walt Quinn,2026-08-17,Michael Morgan has made an adjustment to a more upward swing path. Early returns are encouraging. Pitch selection is fine. Michael Morgan will chase occasionally but generally lays off bad pitches.
+SN-0145,H-051,Ken Palmer,2026-06-06,Consistent mechanics. Patrick Drake does not change much game to game.
+SN-0146,H-051,Tom Nash,2026-07-19,"Patrick Drake has a repeatable swing. Nothing jumps off the page, but nothing concerning either."
+SN-0147,H-052,Jim Carson,2026-04-26,Athletic swing. Quinn Lynch uses his lower half well and generates bat speed efficiently.
+SN-0148,H-052,Walt Ortega,2026-05-24,No major red flags. Quinn Lynch is putting together competitive at-bats. Approach is league average. Quinn Lynch swings at strikes and takes balls at a normal rate.
+SN-0149,H-052,Frank Palmer,2026-07-28,Quinn Lynch is chasing more pitches out of the zone. Discipline has slipped in the last few weeks.
+SN-0150,H-052,Pat Palmer,2026-08-05,Solid approach at the plate. Quinn Lynch is laying off tough pitches and staying within the strike zone. Workmanlike at-bats. Quinn Lynch fights off tough pitches and puts the ball in play.
+SN-0151,H-053,Frank Carson,2026-05-01,The bat speed just is not there right now. Evan Powell looks like he is swinging through molasses.
+SN-0152,H-053,Bill Franklin,2026-08-11,Bat looks a touch slower lately. Evan Powell is getting to fastballs late and fouling them off. Swing has gotten long. Evan Powell is wrapping the bat and losing bat speed through the zone.
+SN-0153,H-054,Bob Monroe,2026-05-18,Average bat speed and contact quality. Robert Torres is a solid but not spectacular hitter. Average bat speed and contact quality. Robert Torres is a solid but not spectacular hitter.
+SN-0154,H-054,Walt Edwards,2026-06-15,Not staying back on off-speed. Robert Torres is lunging and losing power on contact.
+SN-0155,H-055,Steve Monroe,2026-03-31,Launch angles are flat. Ethan Bell is beating the ball into the ground instead of driving it.
+SN-0156,H-055,Ed Ortega,2026-06-08,Solid approach at the plate. Ethan Bell is laying off tough pitches and staying within the strike zone. Steady performer. Ethan Bell is doing what he always does - consistent at-bats with average power.
+SN-0157,H-055,Rick Franklin,2026-07-07,Chase rate has been creeping up. Ethan Bell swings at too many pitcher's pitches.
+SN-0158,H-056,Gary Quinn,2026-04-04,Pitch selection is fine. Jacob Farmer will chase occasionally but generally lays off bad pitches.
+SN-0159,H-056,Larry Jenkins,2026-06-17,Good pitch recognition. Jacob Farmer is not expanding the zone and making pitchers work deep into counts.
+SN-0160,H-056,Larry Klein,2026-08-13,Average bat speed and contact quality. Jacob Farmer is a solid but not spectacular hitter.
+SN-0161,H-057,Steve Sherman,2026-04-23,No major red flags. Quinn Spencer is putting together competitive at-bats.
+SN-0162,H-057,Bill Jenkins,2026-05-28,"No major red flags. Quinn Spencer is putting together competitive at-bats. Quinn Spencer has a repeatable swing. Nothing jumps off the page, but nothing concerning either."
+SN-0163,H-057,Mike Bailey,2026-06-28,Consistent mechanics. Quinn Spencer does not change much game to game.
+SN-0164,H-057,Dave Franklin,2026-07-08,Solid approach at the plate. Quinn Spencer is laying off tough pitches and staying within the strike zone.
+SN-0165,H-058,Vince Russo,2026-07-24,Jacob Burns has made an adjustment to a more upward swing path. Early returns are encouraging. Workmanlike at-bats. Jacob Burns fights off tough pitches and puts the ball in play.
+SN-0166,H-058,Mike Edwards,2026-08-10,Jacob Burns is chasing more pitches out of the zone. Discipline has slipped in the last few weeks. Average bat speed and contact quality. Jacob Burns is a solid but not spectacular hitter.
+SN-0167,H-058,Walt Carson,2026-08-24,Approach is league average. Jacob Burns swings at strikes and takes balls at a normal rate. Consistent mechanics. Jacob Burns does not change much game to game.
+SN-0168,H-059,Larry Jenkins,2026-06-01,"Brady Holmes has a repeatable swing. Nothing jumps off the page, but nothing concerning either. Solid approach at the plate. Brady Holmes is laying off tough pitches and staying within the strike zone."
+SN-0169,H-059,Ted Thornton,2026-06-07,The swing change is paying off. Brady Holmes is getting under the ball more and driving it with authority. Mechanics look clean. Brady Holmes has a compact swing with good extension through contact.
+SN-0170,H-059,Steve Franklin,2026-06-22,Consistent mechanics. Brady Holmes does not change much game to game. Bat looks quick through the zone. Brady Holmes is driving the ball well to all fields.
+SN-0171,H-059,Rick Thornton,2026-07-14,Brady Holmes is chasing more pitches out of the zone. Discipline has slipped in the last few weeks.
+SN-0172,H-060,Hank Carson,2026-04-03,The bat speed just is not there right now. Josh Newman looks like he is swinging through molasses. Steady performer. Josh Newman is doing what he always does - consistent at-bats with average power.
+SN-0173,H-060,Joe Adams,2026-05-02,Good pitch recognition. Josh Newman is not expanding the zone and making pitchers work deep into counts.
+SN-0174,H-061,Walt Franklin,2026-04-26,Consistent mechanics. Zane Webb does not change much game to game. Average bat speed and contact quality. Zane Webb is a solid but not spectacular hitter.
+SN-0175,H-061,Walt Lambert,2026-07-08,"Zane Webb has a repeatable swing. Nothing jumps off the page, but nothing concerning either. Bat looks a touch slower lately. Zane Webb is getting to fastballs late and fouling them off."
+SN-0176,H-061,Vince Klein,2026-07-14,Solid approach at the plate. Zane Webb is laying off tough pitches and staying within the strike zone.
+SN-0177,H-062,Walt Ortega,2026-04-27,No major red flags. Zane Alvarez is putting together competitive at-bats. Steady performer. Zane Alvarez is doing what he always does - consistent at-bats with average power.
+SN-0178,H-062,Bob Monroe,2026-05-24,Pitch selection is fine. Zane Alvarez will chase occasionally but generally lays off bad pitches.
+SN-0179,H-063,Larry Bailey,2026-05-27,Swing has gotten long. Pedro Gibson is wrapping the bat and losing bat speed through the zone. Bat looks quick through the zone. Pedro Gibson is driving the ball well to all fields.
+SN-0180,H-063,Charlie Klein,2026-08-11,"Pedro Gibson has a repeatable swing. Nothing jumps off the page, but nothing concerning either."
+SN-0181,H-064,Vince Monroe,2026-05-24,Power numbers are trending up. Robert Davis has found a swing plane that produces hard contact. Pitch selection is fine. Robert Davis will chase occasionally but generally lays off bad pitches.
+SN-0182,H-064,Ted Adams,2026-07-29,Exit velocities have been consistently hard. Robert Davis is barreling the ball at a high rate.
+SN-0183,H-064,Hank Klein,2026-09-03,Swing has gotten long. Robert Davis is wrapping the bat and losing bat speed through the zone.
+SN-0184,H-065,Pat Edwards,2026-03-27,Bat looks a touch slower lately. Rico Wells is getting to fastballs late and fouling them off.
+SN-0185,H-065,Vince Sherman,2026-06-28,Mechanics look clean. Rico Wells has a compact swing with good extension through contact.
+SN-0186,H-065,Steve Carson,2026-08-12,Not staying back on off-speed. Rico Wells is lunging and losing power on contact. Bat looks a touch slower lately. Rico Wells is getting to fastballs late and fouling them off.
+SN-0187,H-065,Rick Bailey,2026-08-25,Chase rate has been creeping up. Rico Wells swings at too many pitcher's pitches.
+SN-0188,H-066,Joe Gordon,2026-05-13,Mechanics look clean. Mason Foster has a compact swing with good extension through contact.
+SN-0189,H-066,Hank Sherman,2026-07-13,Discipline at the plate is elite. Mason Foster rarely chases and punishes mistakes in the zone.
+SN-0190,H-066,Ted Russo,2026-08-12,Bat looks a touch slower lately. Mason Foster is getting to fastballs late and fouling them off.
+SN-0191,H-067,Dave Monroe,2026-04-20,Chase rate has been creeping up. James Turner swings at too many pitcher's pitches. Swing has gotten long. James Turner is wrapping the bat and losing bat speed through the zone.
+SN-0192,H-067,Vince Palmer,2026-06-08,Solid approach at the plate. James Turner is laying off tough pitches and staying within the strike zone.
+SN-0193,H-068,Rick Irving,2026-08-02,Exit velocities have been consistently hard. Derek Fox is barreling the ball at a high rate.
+SN-0194,H-068,Ken Ortega,2026-09-03,Derek Fox is chasing more pitches out of the zone. Discipline has slipped in the last few weeks. Approach is league average. Derek Fox swings at strikes and takes balls at a normal rate.
+SN-0195,H-069,Ed Thornton,2026-07-16,Exit velocities have been consistently hard. Jordan Griffin is barreling the ball at a high rate.
+SN-0196,H-069,Bob Franklin,2026-08-02,The swing change is paying off. Jordan Griffin is getting under the ball more and driving it with authority. No major red flags. Jordan Griffin is putting together competitive at-bats.
+SN-0197,H-069,Frank Gordon,2026-08-30,Steady performer. Jordan Griffin is doing what he always does - consistent at-bats with average power.
+SN-0198,H-070,Joe Dawkins,2026-04-10,Launch angles are flat. Keith Nelson is beating the ball into the ground instead of driving it. Steady performer. Keith Nelson is doing what he always does - consistent at-bats with average power.
+SN-0199,H-070,Tom Quinn,2026-08-07,No major red flags. Keith Nelson is putting together competitive at-bats.
+SN-0200,H-070,Frank Lambert,2026-08-13,"Solid approach at the plate. Keith Nelson is laying off tough pitches and staying within the strike zone. Keith Nelson has a repeatable swing. Nothing jumps off the page, but nothing concerning either."
+SN-0201,H-071,Jim Jenkins,2026-05-25,Average bat speed and contact quality. Daniel Mason is a solid but not spectacular hitter.
+SN-0202,H-071,Hank Gordon,2026-06-06,Exit velocities have been consistently hard. Daniel Mason is barreling the ball at a high rate.
+SN-0203,H-071,Bill Sherman,2026-07-02,Bat looks a touch slower lately. Daniel Mason is getting to fastballs late and fouling them off. Solid approach at the plate. Daniel Mason is laying off tough pitches and staying within the strike zone.
+SN-0204,H-072,Larry Sherman,2026-04-19,Launch angles are flat. Ray Abbott is beating the ball into the ground instead of driving it. Approach is league average. Ray Abbott swings at strikes and takes balls at a normal rate.
+SN-0205,H-072,Mike Klein,2026-07-16,Average bat speed and contact quality. Ray Abbott is a solid but not spectacular hitter.
+SN-0206,H-073,Joe Irving,2026-05-08,Bat looks a touch slower lately. Connor Wilson is getting to fastballs late and fouling them off. Swing has gotten long. Connor Wilson is wrapping the bat and losing bat speed through the zone.
+SN-0207,H-073,Pat Dawkins,2026-07-01,Approach is league average. Connor Wilson swings at strikes and takes balls at a normal rate.
+SN-0208,H-074,Walt Edwards,2026-03-30,"Bat looks a touch slower lately. Carlos Chapman is getting to fastballs late and fouling them off. Carlos Chapman has a repeatable swing. Nothing jumps off the page, but nothing concerning either."
+SN-0209,H-074,Vince Irving,2026-04-24,Bat looks a touch slower lately. Carlos Chapman is getting to fastballs late and fouling them off. Approach is league average. Carlos Chapman swings at strikes and takes balls at a normal rate.
+SN-0210,H-074,Ken Edwards,2026-06-16,The swing change is paying off. Carlos Chapman is getting under the ball more and driving it with authority. Average bat speed and contact quality. Carlos Chapman is a solid but not spectacular hitter.
+SN-0211,H-075,Walt Franklin,2026-04-10,Struggling with velocity. Luke Douglas is behind on fastballs and not making hard contact. Bat looks quick through the zone. Luke Douglas is driving the ball well to all fields.
+SN-0212,H-075,Ted Hayes,2026-06-04,Chase rate has been creeping up. Luke Douglas swings at too many pitcher's pitches.
+SN-0213,H-075,Rick Klein,2026-06-08,Swing has gotten long. Luke Douglas is wrapping the bat and losing bat speed through the zone. Steady performer. Luke Douglas is doing what he always does - consistent at-bats with average power.
+SN-0214,H-075,Bill Hayes,2026-08-18,Chase rate has been creeping up. Luke Douglas swings at too many pitcher's pitches.
+SN-0215,H-076,Hank Lambert,2026-08-21,Chase rate has been creeping up. Thomas Shaw swings at too many pitcher's pitches.
+SN-0216,H-076,Vince Bailey,2026-08-28,Consistent mechanics. Thomas Shaw does not change much game to game.
+SN-0217,H-077,Charlie Gordon,2026-07-25,Launch angles are flat. Jake Ramirez is beating the ball into the ground instead of driving it. Bat looks quick through the zone. Jake Ramirez is driving the ball well to all fields.
+SN-0218,H-077,Bill Palmer,2026-08-01,Chase rate has been creeping up. Jake Ramirez swings at too many pitcher's pitches.
+SN-0219,H-077,Steve Ortega,2026-08-08,Pitch selection is fine. Jake Ramirez will chase occasionally but generally lays off bad pitches. Jake Ramirez is expanding the zone more than usual. Chasing breaking balls down and away.
+SN-0220,H-078,Dave Klein,2026-06-04,Struggling with velocity. Rafael Shaw is behind on fastballs and not making hard contact.
+SN-0221,H-078,Bob Klein,2026-08-15,Swing has gotten long. Rafael Shaw is wrapping the bat and losing bat speed through the zone.
+SN-0222,H-078,Ed Adams,2026-08-22,Consistent mechanics. Rafael Shaw does not change much game to game. Swing has gotten long. Rafael Shaw is wrapping the bat and losing bat speed through the zone.
+SN-0223,H-079,Rick Ortega,2026-05-04,Pitch selection is fine. Weston Murphy will chase occasionally but generally lays off bad pitches.
+SN-0224,H-079,Hank Klein,2026-07-10,Approach is league average. Weston Murphy swings at strikes and takes balls at a normal rate.
+SN-0225,H-080,Vince Irving,2026-03-29,Launch angles are flat. John Henderson is beating the ball into the ground instead of driving it. John Henderson is expanding the zone more than usual. Chasing breaking balls down and away.
+SN-0226,H-080,Ed Sherman,2026-04-27,The bat speed just is not there right now. John Henderson looks like he is swinging through molasses.
+SN-0227,H-080,Ken Nash,2026-08-07,John Henderson has made an adjustment to a more upward swing path. Early returns are encouraging.
+SN-0228,H-081,Ted Dawkins,2026-04-13,Launch angles are flat. Chase Matthews is beating the ball into the ground instead of driving it. Mechanics look clean. Chase Matthews has a compact swing with good extension through contact.
+SN-0229,H-081,Jim Hayes,2026-05-26,The swing change is paying off. Chase Matthews is getting under the ball more and driving it with authority.
+SN-0230,H-081,Charlie Klein,2026-08-05,Chase rate has been creeping up. Chase Matthews swings at too many pitcher's pitches. Solid approach at the plate. Chase Matthews is laying off tough pitches and staying within the strike zone.
+SN-0231,H-082,Vince Monroe,2026-05-12,The bat speed just is not there right now. Grant Hunt looks like he is swinging through molasses.
+SN-0232,H-082,Rick Dawkins,2026-06-14,The bat speed just is not there right now. Grant Hunt looks like he is swinging through molasses. Pitch selection is fine. Grant Hunt will chase occasionally but generally lays off bad pitches.
+SN-0233,H-082,Ken Jenkins,2026-06-16,Steady performer. Grant Hunt is doing what he always does - consistent at-bats with average power. Steady performer. Grant Hunt is doing what he always does - consistent at-bats with average power.
+SN-0234,H-082,Vince Ortega,2026-08-16,Exit velocities have been consistently hard. Grant Hunt is barreling the ball at a high rate.
+SN-0235,H-083,Hank Bailey,2026-04-15,Struggling with velocity. Hunter Watson is behind on fastballs and not making hard contact.
+SN-0236,H-083,Ken Gordon,2026-04-24,Hunter Watson is chasing more pitches out of the zone. Discipline has slipped in the last few weeks.
+SN-0237,H-084,Mike Lambert,2026-07-02,Bat looks a touch slower lately. James Phillips is getting to fastballs late and fouling them off.
+SN-0238,H-084,Hank Thornton,2026-07-11,Swing has gotten long. James Phillips is wrapping the bat and losing bat speed through the zone. Approach is league average. James Phillips swings at strikes and takes balls at a normal rate.
+SN-0239,H-085,Vince Sherman,2026-04-12,Launch angles are flat. Tyler Tucker is beating the ball into the ground instead of driving it.
+SN-0240,H-085,Vince Carson,2026-05-22,The bat speed just is not there right now. Tyler Tucker looks like he is swinging through molasses.
+SN-0241,H-086,Charlie Monroe,2026-05-24,Struggling with velocity. Josh Gibson is behind on fastballs and not making hard contact. No major red flags. Josh Gibson is putting together competitive at-bats.
+SN-0242,H-086,Joe Klein,2026-07-21,Bat looks quick through the zone. Josh Gibson is driving the ball well to all fields. Bat looks quick through the zone. Josh Gibson is driving the ball well to all fields.
+SN-0243,H-087,Bill Monroe,2026-07-04,Bat looks quick through the zone. Noah Young is driving the ball well to all fields.
+SN-0244,H-087,Steve Ortega,2026-07-18,Chase rate has been creeping up. Noah Young swings at too many pitcher's pitches. No major red flags. Noah Young is putting together competitive at-bats.
+SN-0245,H-088,Rick Gordon,2026-07-03,Solid approach at the plate. Adam Blake is laying off tough pitches and staying within the strike zone. Adam Blake is expanding the zone more than usual. Chasing breaking balls down and away.
+SN-0246,H-088,Dave Lambert,2026-09-04,Exit velocities have been consistently hard. Adam Blake is barreling the ball at a high rate. Bat looks quick through the zone. Adam Blake is driving the ball well to all fields.
+SN-0247,H-089,Larry Jenkins,2026-04-05,Contact quality has dropped. Jake Barnes is rolling over on pitches and hitting weak grounders. Swing has gotten long. Jake Barnes is wrapping the bat and losing bat speed through the zone.
+SN-0248,H-089,Dave Bailey,2026-07-11,Athletic swing. Jake Barnes uses his lower half well and generates bat speed efficiently.
+SN-0249,H-090,Pat Jenkins,2026-05-06,Contact quality has dropped. Joel Cole is rolling over on pitches and hitting weak grounders.
+SN-0250,H-090,Vince Sherman,2026-08-09,Bat looks a touch slower lately. Joel Cole is getting to fastballs late and fouling them off. Bat looks quick through the zone. Joel Cole is driving the ball well to all fields.
+SN-0251,H-091,Bob Palmer,2026-06-28,"Owen Garcia has a repeatable swing. Nothing jumps off the page, but nothing concerning either."
+SN-0252,H-091,Pat Bailey,2026-07-04,Athletic swing. Owen Garcia uses his lower half well and generates bat speed efficiently.
+SN-0253,H-091,Ted Monroe,2026-08-02,Owen Garcia has made an adjustment to a more upward swing path. Early returns are encouraging. Consistent mechanics. Owen Garcia does not change much game to game.
+SN-0254,H-092,Charlie Ortega,2026-04-04,"Remy West has a repeatable swing. Nothing jumps off the page, but nothing concerning either. No major red flags. Remy West is putting together competitive at-bats."
+SN-0255,H-092,Ken Irving,2026-05-03,Athletic swing. Remy West uses his lower half well and generates bat speed efficiently. Consistent mechanics. Remy West does not change much game to game.
+SN-0256,H-092,Joe Bailey,2026-08-20,Exit velocities have been consistently hard. Remy West is barreling the ball at a high rate.
+SN-0257,H-093,Ken Dawkins,2026-04-04,Solid approach at the plate. Ben Green is laying off tough pitches and staying within the strike zone.
+SN-0258,H-093,Mike Irving,2026-05-19,Pitch selection is fine. Ben Green will chase occasionally but generally lays off bad pitches. Steady performer. Ben Green is doing what he always does - consistent at-bats with average power.
+SN-0259,H-093,Hank Thornton,2026-08-16,Contact quality has dropped. Ben Green is rolling over on pitches and hitting weak grounders. No major red flags. Ben Green is putting together competitive at-bats.
+SN-0260,H-094,Hank Bailey,2026-04-09,Steady performer. Logan Morgan is doing what he always does - consistent at-bats with average power.
+SN-0261,H-094,Mike Sherman,2026-05-27,Logan Morgan has made an adjustment to a more upward swing path. Early returns are encouraging. Logan Morgan is expanding the zone more than usual. Chasing breaking balls down and away.
+SN-0262,H-095,Dave Quinn,2026-07-02,The swing change is paying off. Zach Meyer is getting under the ball more and driving it with authority. Zach Meyer is expanding the zone more than usual. Chasing breaking balls down and away.
+SN-0263,H-095,Gary Jenkins,2026-07-03,Consistent mechanics. Zach Meyer does not change much game to game. Approach is league average. Zach Meyer swings at strikes and takes balls at a normal rate.
+SN-0264,H-095,Charlie Nash,2026-08-08,Mechanics look clean. Zach Meyer has a compact swing with good extension through contact.
+SN-0265,H-095,Bob Gordon,2026-08-10,Contact quality has dropped. Zach Meyer is rolling over on pitches and hitting weak grounders.
+SN-0266,H-096,Gary Adams,2026-04-09,No major red flags. Lucas Norton is putting together competitive at-bats. Pitch selection is fine. Lucas Norton will chase occasionally but generally lays off bad pitches.
+SN-0267,H-096,Walt Adams,2026-04-27,Bat looks a touch slower lately. Lucas Norton is getting to fastballs late and fouling them off.
+SN-0268,H-096,Dave Nash,2026-05-23,Lucas Norton has made an adjustment to a more upward swing path. Early returns are encouraging.
+SN-0269,H-096,Hank Edwards,2026-06-04,The bat speed just is not there right now. Lucas Norton looks like he is swinging through molasses.
+SN-0270,H-097,Bob Irving,2026-04-01,Good pitch recognition. Tyler Perry is not expanding the zone and making pitchers work deep into counts.
+SN-0271,H-097,Gary Dawkins,2026-04-24,Power numbers are trending up. Tyler Perry has found a swing plane that produces hard contact. Tyler Perry is expanding the zone more than usual. Chasing breaking balls down and away.
+SN-0272,H-097,Vince Gordon,2026-08-10,Approach is league average. Tyler Perry swings at strikes and takes balls at a normal rate.
+SN-0273,H-098,Frank Irving,2026-04-11,Roman Snyder is expanding the zone more than usual. Chasing breaking balls down and away. Mechanics look clean. Roman Snyder has a compact swing with good extension through contact.
+SN-0274,H-098,Jim Lambert,2026-04-28,Discipline at the plate is elite. Roman Snyder rarely chases and punishes mistakes in the zone. Bat looks a touch slower lately. Roman Snyder is getting to fastballs late and fouling them off.
+SN-0275,H-099,Ken Klein,2026-04-10,Contact quality has dropped. Wade Snyder is rolling over on pitches and hitting weak grounders. Average bat speed and contact quality. Wade Snyder is a solid but not spectacular hitter.
+SN-0276,H-099,Pat Russo,2026-05-03,Consistent mechanics. Wade Snyder does not change much game to game. Wade Snyder is expanding the zone more than usual. Chasing breaking balls down and away.
+SN-0277,H-099,Ed Sherman,2026-07-15,Swing has gotten long. Wade Snyder is wrapping the bat and losing bat speed through the zone. No major red flags. Wade Snyder is putting together competitive at-bats.
+SN-0278,H-099,Vince Sherman,2026-08-27,Good pitch recognition. Wade Snyder is not expanding the zone and making pitchers work deep into counts.
+SN-0279,H-100,Steve Hayes,2026-08-03,Bat looks a touch slower lately. Jesse Gray is getting to fastballs late and fouling them off. Solid approach at the plate. Jesse Gray is laying off tough pitches and staying within the strike zone.
+SN-0280,H-100,Hank Jenkins,2026-08-26,Exit velocities have been consistently hard. Jesse Gray is barreling the ball at a high rate.
+SN-0281,H-101,Mike Lambert,2026-04-01,Gabriel Taylor has made an adjustment to a more upward swing path. Early returns are encouraging. Average bat speed and contact quality. Gabriel Taylor is a solid but not spectacular hitter.
+SN-0282,H-101,Ed Irving,2026-05-10,Gabriel Taylor has made an adjustment to a more upward swing path. Early returns are encouraging.
+SN-0283,H-102,Gary Edwards,2026-05-25,The swing change is paying off. Dylan Bishop is getting under the ball more and driving it with authority. Average bat speed and contact quality. Dylan Bishop is a solid but not spectacular hitter.
+SN-0284,H-102,Charlie Lambert,2026-05-31,Average bat speed and contact quality. Dylan Bishop is a solid but not spectacular hitter. Solid approach at the plate. Dylan Bishop is laying off tough pitches and staying within the strike zone.
+SN-0285,H-102,Ed Palmer,2026-07-02,Swing has gotten long. Dylan Bishop is wrapping the bat and losing bat speed through the zone. Bat looks quick through the zone. Dylan Bishop is driving the ball well to all fields.
+SN-0286,H-102,Charlie Bailey,2026-08-13,Steady performer. Dylan Bishop is doing what he always does - consistent at-bats with average power. Consistent mechanics. Dylan Bishop does not change much game to game.
+SN-0287,H-103,Mike Lambert,2026-06-06,Bat looks quick through the zone. Chris Spencer is driving the ball well to all fields.
+SN-0288,H-103,Larry Gordon,2026-06-18,The bat speed just is not there right now. Chris Spencer looks like he is swinging through molasses.
+SN-0289,H-103,Pat Gordon,2026-08-04,Chris Spencer has made an adjustment to a more upward swing path. Early returns are encouraging. No major red flags. Chris Spencer is putting together competitive at-bats.
+SN-0290,H-104,Gary Klein,2026-04-18,Contact quality has dropped. Clay Wallace is rolling over on pitches and hitting weak grounders. Swing has gotten long. Clay Wallace is wrapping the bat and losing bat speed through the zone.
+SN-0291,H-104,Mike Klein,2026-07-04,Steady performer. Clay Wallace is doing what he always does - consistent at-bats with average power. No major red flags. Clay Wallace is putting together competitive at-bats.
+SN-0292,H-105,Ed Quinn,2026-05-26,No major red flags. Max Torres is putting together competitive at-bats. Solid approach at the plate. Max Torres is laying off tough pitches and staying within the strike zone.
+SN-0293,H-105,Dave Nash,2026-07-20,The swing change is paying off. Max Torres is getting under the ball more and driving it with authority. Steady performer. Max Torres is doing what he always does - consistent at-bats with average power.
+SN-0294,H-105,Larry Franklin,2026-08-09,Bat looks quick through the zone. Max Torres is driving the ball well to all fields. Bat looks a touch slower lately. Max Torres is getting to fastballs late and fouling them off.
+SN-0295,H-106,Charlie Dawkins,2026-04-25,Bat looks a touch slower lately. Spencer Lopez is getting to fastballs late and fouling them off. Mechanics look clean. Spencer Lopez has a compact swing with good extension through contact.
+SN-0296,H-106,Ed Sherman,2026-05-12,Approach is league average. Spencer Lopez swings at strikes and takes balls at a normal rate.
+SN-0297,H-106,Mike Jenkins,2026-07-23,Solid approach at the plate. Spencer Lopez is laying off tough pitches and staying within the strike zone.
+SN-0298,H-107,Ted Palmer,2026-04-11,Athletic swing. Rhys Nelson uses his lower half well and generates bat speed efficiently.
+SN-0299,H-107,Steve Russo,2026-05-27,The swing change is paying off. Rhys Nelson is getting under the ball more and driving it with authority. No major red flags. Rhys Nelson is putting together competitive at-bats.
+SN-0300,H-107,Ken Irving,2026-07-03,Approach is league average. Rhys Nelson swings at strikes and takes balls at a normal rate.
+SN-0301,H-107,Joe Monroe,2026-08-27,Struggling with velocity. Rhys Nelson is behind on fastballs and not making hard contact.
+SN-0302,H-108,Ed Dawkins,2026-04-25,The swing change is paying off. David Ford is getting under the ball more and driving it with authority.
+SN-0303,H-108,Ed Russo,2026-08-29,Approach is league average. David Ford swings at strikes and takes balls at a normal rate. Bat looks a touch slower lately. David Ford is getting to fastballs late and fouling them off.
+SN-0304,H-109,Dave Sherman,2026-07-04,Swing has gotten long. Isaac Holmes is wrapping the bat and losing bat speed through the zone.
+SN-0305,H-109,Ed Palmer,2026-09-03,Not staying back on off-speed. Isaac Holmes is lunging and losing power on contact. Bat looks quick through the zone. Isaac Holmes is driving the ball well to all fields.
+SN-0306,H-110,Charlie Carson,2026-04-02,The swing change is paying off. Justin Ford is getting under the ball more and driving it with authority. Swing has gotten long. Justin Ford is wrapping the bat and losing bat speed through the zone.
+SN-0307,H-110,Mike Hayes,2026-04-26,Bat looks quick through the zone. Justin Ford is driving the ball well to all fields.
+SN-0308,H-110,Rick Gordon,2026-05-16,Athletic swing. Justin Ford uses his lower half well and generates bat speed efficiently.
+SN-0309,H-110,Jim Carson,2026-07-22,Bat looks quick through the zone. Justin Ford is driving the ball well to all fields.
+SN-0310,H-111,Ted Dawkins,2026-04-04,Average bat speed and contact quality. Aaron Burns is a solid but not spectacular hitter. Pitch selection is fine. Aaron Burns will chase occasionally but generally lays off bad pitches.
+SN-0311,H-111,Bob Sherman,2026-04-05,Aaron Burns has made an adjustment to a more upward swing path. Early returns are encouraging. Solid approach at the plate. Aaron Burns is laying off tough pitches and staying within the strike zone.
+SN-0312,H-111,Bob Ortega,2026-05-11,"Consistent mechanics. Aaron Burns does not change much game to game. Aaron Burns has a repeatable swing. Nothing jumps off the page, but nothing concerning either."
+SN-0313,H-111,Frank Franklin,2026-07-06,Not staying back on off-speed. Aaron Burns is lunging and losing power on contact. Steady performer. Aaron Burns is doing what he always does - consistent at-bats with average power.
+SN-0314,H-112,Dave Palmer,2026-08-22,Power numbers are trending up. Marcus Griffin has found a swing plane that produces hard contact.
+SN-0315,H-112,Bill Irving,2026-08-31,The swing change is paying off. Marcus Griffin is getting under the ball more and driving it with authority. Consistent mechanics. Marcus Griffin does not change much game to game.
+SN-0316,H-113,Charlie Klein,2026-04-03,Average bat speed and contact quality. Troy Garcia is a solid but not spectacular hitter.
+SN-0317,H-113,Jim Hayes,2026-04-14,Good pitch recognition. Troy Garcia is not expanding the zone and making pitchers work deep into counts.
+SN-0318,H-113,Hank Lambert,2026-06-10,No major red flags. Troy Garcia is putting together competitive at-bats.
+SN-0319,H-113,Bob Dawkins,2026-07-30,Approach is league average. Troy Garcia swings at strikes and takes balls at a normal rate.
+SN-0320,H-114,Hank Ortega,2026-03-27,Discipline at the plate is elite. Will Price rarely chases and punishes mistakes in the zone. Steady performer. Will Price is doing what he always does - consistent at-bats with average power.
+SN-0321,H-114,Ted Gordon,2026-05-09,Contact quality has dropped. Will Price is rolling over on pitches and hitting weak grounders.
+SN-0322,H-114,Joe Palmer,2026-06-19,Will Price is chasing more pitches out of the zone. Discipline has slipped in the last few weeks. Workmanlike at-bats. Will Price fights off tough pitches and puts the ball in play.
+SN-0323,H-114,Bill Irving,2026-08-01,Chase rate has been creeping up. Will Price swings at too many pitcher's pitches.
+SN-0324,H-115,Frank Nash,2026-05-14,Consistent mechanics. Jack Reyes does not change much game to game.
+SN-0325,H-115,Ken Hayes,2026-06-03,Bat looks a touch slower lately. Jack Reyes is getting to fastballs late and fouling them off.
+SN-0326,H-115,Ed Dawkins,2026-07-05,Good pitch recognition. Jack Reyes is not expanding the zone and making pitchers work deep into counts. Average bat speed and contact quality. Jack Reyes is a solid but not spectacular hitter.
+SN-0327,H-115,Tom Irving,2026-08-24,Consistent mechanics. Jack Reyes does not change much game to game. Steady performer. Jack Reyes is doing what he always does - consistent at-bats with average power.
+SN-0328,H-116,Bob Thornton,2026-04-07,Mechanics look clean. Zane Henderson has a compact swing with good extension through contact. Workmanlike at-bats. Zane Henderson fights off tough pitches and puts the ball in play.
+SN-0329,H-116,Ed Dawkins,2026-04-09,Mechanics look clean. Zane Henderson has a compact swing with good extension through contact. Pitch selection is fine. Zane Henderson will chase occasionally but generally lays off bad pitches.
+SN-0330,H-116,Charlie Edwards,2026-08-07,Average bat speed and contact quality. Zane Henderson is a solid but not spectacular hitter.
+SN-0331,H-117,Walt Monroe,2026-04-04,The swing change is paying off. Reed Foster is getting under the ball more and driving it with authority.
+SN-0332,H-117,Larry Monroe,2026-08-11,Contact quality has dropped. Reed Foster is rolling over on pitches and hitting weak grounders. Swing has gotten long. Reed Foster is wrapping the bat and losing bat speed through the zone.
+SN-0333,H-117,Gary Klein,2026-09-03,The swing change is paying off. Reed Foster is getting under the ball more and driving it with authority. Bat looks a touch slower lately. Reed Foster is getting to fastballs late and fouling them off.
+SN-0334,H-118,Walt Ortega,2026-04-23,"Keith Bishop has a repeatable swing. Nothing jumps off the page, but nothing concerning either."
+SN-0335,H-118,Tom Nash,2026-06-15,Steady performer. Keith Bishop is doing what he always does - consistent at-bats with average power. Workmanlike at-bats. Keith Bishop fights off tough pitches and puts the ball in play.
+SN-0336,H-118,Walt Bailey,2026-07-06,Good pitch recognition. Keith Bishop is not expanding the zone and making pitchers work deep into counts.
+SN-0337,H-119,Hank Thornton,2026-06-14,Mechanics look clean. Spencer Kennedy has a compact swing with good extension through contact.
+SN-0338,H-119,Jim Franklin,2026-07-25,Swing has gotten long. Spencer Kennedy is wrapping the bat and losing bat speed through the zone.
+SN-0339,H-120,Pat Ortega,2026-06-19,Approach is league average. Leo King swings at strikes and takes balls at a normal rate.
+SN-0340,H-120,Steve Klein,2026-08-21,Power numbers are trending up. Leo King has found a swing plane that produces hard contact. Bat looks quick through the zone. Leo King is driving the ball well to all fields.
+SN-0341,H-120,Gary Bailey,2026-08-27,Struggling with velocity. Leo King is behind on fastballs and not making hard contact. Solid approach at the plate. Leo King is laying off tough pitches and staying within the strike zone.
+SN-0342,H-121,Vince Monroe,2026-06-22,Chase rate has been creeping up. Owen White swings at too many pitcher's pitches.
+SN-0343,H-121,Walt Adams,2026-07-06,Owen White is expanding the zone more than usual. Chasing breaking balls down and away.
+SN-0344,H-121,Ted Sherman,2026-08-14,Power numbers are trending up. Owen White has found a swing plane that produces hard contact.
+SN-0345,H-121,Ted Thornton,2026-08-18,Owen White is chasing more pitches out of the zone. Discipline has slipped in the last few weeks.
+SN-0346,H-122,Gary Hayes,2026-06-28,Good pitch recognition. Remy Cole is not expanding the zone and making pitchers work deep into counts.
+SN-0347,H-122,Frank Russo,2026-07-06,Bat looks a touch slower lately. Remy Cole is getting to fastballs late and fouling them off.
+SN-0348,H-123,Ed Ortega,2026-05-14,The bat speed just is not there right now. Trevor Taylor looks like he is swinging through molasses.
+SN-0349,H-123,Tom Franklin,2026-07-26,Trevor Taylor is chasing more pitches out of the zone. Discipline has slipped in the last few weeks. Pitch selection is fine. Trevor Taylor will chase occasionally but generally lays off bad pitches.
+SN-0350,H-123,Frank Hayes,2026-08-17,Bat looks a touch slower lately. Trevor Taylor is getting to fastballs late and fouling them off.
+SN-0351,H-124,Walt Ortega,2026-04-17,The bat speed just is not there right now. Ben Carter looks like he is swinging through molasses. Average bat speed and contact quality. Ben Carter is a solid but not spectacular hitter.
+SN-0352,H-124,Gary Palmer,2026-05-16,Athletic swing. Ben Carter uses his lower half well and generates bat speed efficiently.
+SN-0353,H-124,Tom Gordon,2026-06-01,"Ben Carter has a repeatable swing. Nothing jumps off the page, but nothing concerning either. Solid approach at the plate. Ben Carter is laying off tough pitches and staying within the strike zone."
+SN-0354,H-124,Jim Gordon,2026-08-31,The swing change is paying off. Ben Carter is getting under the ball more and driving it with authority.
+SN-0355,H-125,Steve Quinn,2026-03-30,Bat looks a touch slower lately. Preston Watson is getting to fastballs late and fouling them off. Swing has gotten long. Preston Watson is wrapping the bat and losing bat speed through the zone.
+SN-0356,H-125,Walt Bailey,2026-04-20,"Pitch selection is fine. Preston Watson will chase occasionally but generally lays off bad pitches. Preston Watson has a repeatable swing. Nothing jumps off the page, but nothing concerning either."
+SN-0357,H-125,Walt Russo,2026-04-28,Bat looks quick through the zone. Preston Watson is driving the ball well to all fields. No major red flags. Preston Watson is putting together competitive at-bats.
+SN-0358,H-125,Ken Dawkins,2026-06-09,Steady performer. Preston Watson is doing what he always does - consistent at-bats with average power.
+SN-0359,H-126,Pat Carson,2026-03-27,Discipline at the plate is elite. Jacob Evans rarely chases and punishes mistakes in the zone. Mechanics look clean. Jacob Evans has a compact swing with good extension through contact.
+SN-0360,H-126,Bill Adams,2026-08-25,Workmanlike at-bats. Jacob Evans fights off tough pitches and puts the ball in play. Solid approach at the plate. Jacob Evans is laying off tough pitches and staying within the strike zone.
+SN-0361,H-127,Dave Lambert,2026-05-09,Mechanics look clean. Gabriel Barnes has a compact swing with good extension through contact. Swing has gotten long. Gabriel Barnes is wrapping the bat and losing bat speed through the zone.
+SN-0362,H-127,Pat Dawkins,2026-05-24,Exit velocities have been consistently hard. Gabriel Barnes is barreling the ball at a high rate.
+SN-0363,H-127,Dave Irving,2026-08-28,No major red flags. Gabriel Barnes is putting together competitive at-bats. Bat looks a touch slower lately. Gabriel Barnes is getting to fastballs late and fouling them off.
+SN-0364,H-128,Steve Ortega,2026-04-01,Contact quality has dropped. Ryan Mitchell is rolling over on pitches and hitting weak grounders.
+SN-0365,H-128,Jim Carson,2026-07-30,Bat looks a touch slower lately. Ryan Mitchell is getting to fastballs late and fouling them off. Consistent mechanics. Ryan Mitchell does not change much game to game.
+SN-0366,H-128,Joe Carson,2026-08-11,Bat looks quick through the zone. Ryan Mitchell is driving the ball well to all fields. Workmanlike at-bats. Ryan Mitchell fights off tough pitches and puts the ball in play.
+SN-0367,H-129,Vince Bailey,2026-05-23,Athletic swing. Robert Rodriguez uses his lower half well and generates bat speed efficiently.
+SN-0368,H-129,Joe Sherman,2026-06-26,Bat looks quick through the zone. Robert Rodriguez is driving the ball well to all fields.
+SN-0369,H-129,Larry Nash,2026-06-30,Discipline at the plate is elite. Robert Rodriguez rarely chases and punishes mistakes in the zone. No major red flags. Robert Rodriguez is putting together competitive at-bats.
+SN-0370,H-130,Frank Monroe,2026-06-06,Mechanics look clean. Jacob Powell has a compact swing with good extension through contact. No major red flags. Jacob Powell is putting together competitive at-bats.
+SN-0371,H-130,Ken Gordon,2026-07-20,Discipline at the plate is elite. Jacob Powell rarely chases and punishes mistakes in the zone.
+SN-0372,H-131,Walt Irving,2026-04-17,"Seth Dixon has a repeatable swing. Nothing jumps off the page, but nothing concerning either. Workmanlike at-bats. Seth Dixon fights off tough pitches and puts the ball in play."
+SN-0373,H-131,Rick Franklin,2026-05-01,Bat looks a touch slower lately. Seth Dixon is getting to fastballs late and fouling them off.
+SN-0374,H-131,Ed Nash,2026-06-13,Steady performer. Seth Dixon is doing what he always does - consistent at-bats with average power. Mechanics look clean. Seth Dixon has a compact swing with good extension through contact.
+SN-0375,H-131,Walt Jenkins,2026-08-19,The swing change is paying off. Seth Dixon is getting under the ball more and driving it with authority.
+SN-0376,H-132,Vince Irving,2026-04-27,Pitch selection is fine. Dylan Parker will chase occasionally but generally lays off bad pitches.
+SN-0377,H-132,Bob Monroe,2026-07-19,Struggling with velocity. Dylan Parker is behind on fastballs and not making hard contact.
+SN-0378,H-133,Charlie Gordon,2026-05-10,Exit velocities have been consistently hard. Evan Stone is barreling the ball at a high rate.
+SN-0379,H-133,Larry Russo,2026-05-12,Bat looks a touch slower lately. Evan Stone is getting to fastballs late and fouling them off.
+SN-0380,H-133,Walt Palmer,2026-07-25,Contact quality has dropped. Evan Stone is rolling over on pitches and hitting weak grounders. Swing has gotten long. Evan Stone is wrapping the bat and losing bat speed through the zone.
+SN-0381,H-133,Larry Thornton,2026-08-24,Pitch selection is fine. Evan Stone will chase occasionally but generally lays off bad pitches.
+SN-0382,H-134,Dave Thornton,2026-04-25,Chase rate has been creeping up. Jay Wood swings at too many pitcher's pitches.
+SN-0383,H-134,Bill Sherman,2026-05-25,Jay Wood has made an adjustment to a more upward swing path. Early returns are encouraging.
+SN-0384,H-135,Frank Russo,2026-04-27,Discipline at the plate is elite. Joel Hill rarely chases and punishes mistakes in the zone. Solid approach at the plate. Joel Hill is laying off tough pitches and staying within the strike zone.
+SN-0385,H-135,Steve Gordon,2026-05-31,Swing has gotten long. Joel Hill is wrapping the bat and losing bat speed through the zone.
+SN-0386,H-135,Vince Klein,2026-07-22,Workmanlike at-bats. Joel Hill fights off tough pitches and puts the ball in play. Pitch selection is fine. Joel Hill will chase occasionally but generally lays off bad pitches.
+SN-0387,H-136,Gary Sherman,2026-04-01,"Devon Burke has a repeatable swing. Nothing jumps off the page, but nothing concerning either."
+SN-0388,H-136,Ed Adams,2026-08-05,Devon Burke is chasing more pitches out of the zone. Discipline has slipped in the last few weeks.
+SN-0389,H-137,Bill Irving,2026-04-12,Average bat speed and contact quality. Bryce Jones is a solid but not spectacular hitter. Pitch selection is fine. Bryce Jones will chase occasionally but generally lays off bad pitches.
+SN-0390,H-137,Dave Sherman,2026-06-10,Contact quality has dropped. Bryce Jones is rolling over on pitches and hitting weak grounders. Steady performer. Bryce Jones is doing what he always does - consistent at-bats with average power.
+SN-0391,H-137,Dave Palmer,2026-06-23,Exit velocities have been consistently hard. Bryce Jones is barreling the ball at a high rate.
+SN-0392,H-137,Steve Carson,2026-08-22,Good pitch recognition. Bryce Jones is not expanding the zone and making pitchers work deep into counts. Bryce Jones is expanding the zone more than usual. Chasing breaking balls down and away.
+SN-0393,H-138,Ted Adams,2026-04-26,Good pitch recognition. Tanner Wallace is not expanding the zone and making pitchers work deep into counts. Mechanics look clean. Tanner Wallace has a compact swing with good extension through contact.
+SN-0394,H-138,Charlie Russo,2026-05-14,Tanner Wallace is expanding the zone more than usual. Chasing breaking balls down and away. Bat looks quick through the zone. Tanner Wallace is driving the ball well to all fields.
+SN-0395,H-138,Ken Hayes,2026-06-14,"Tanner Wallace has a repeatable swing. Nothing jumps off the page, but nothing concerning either. Consistent mechanics. Tanner Wallace does not change much game to game."
+SN-0396,H-138,Pat Edwards,2026-08-09,The bat speed just is not there right now. Tanner Wallace looks like he is swinging through molasses.
+SN-0397,H-139,Ed Lambert,2026-06-03,Discipline at the plate is elite. Xavier Rodriguez rarely chases and punishes mistakes in the zone. Solid approach at the plate. Xavier Rodriguez is laying off tough pitches and staying within the strike zone.
+SN-0398,H-139,Hank Lambert,2026-06-29,Pitch selection is fine. Xavier Rodriguez will chase occasionally but generally lays off bad pitches.
+SN-0399,H-139,Rick Hayes,2026-07-22,Xavier Rodriguez has made an adjustment to a more upward swing path. Early returns are encouraging. Swing has gotten long. Xavier Rodriguez is wrapping the bat and losing bat speed through the zone.
+SN-0400,H-139,Larry Klein,2026-08-15,Not staying back on off-speed. Xavier Rodriguez is lunging and losing power on contact. Mechanics look clean. Xavier Rodriguez has a compact swing with good extension through contact.
+SN-0401,H-140,Dave Monroe,2026-04-22,"Wade Griffin has a repeatable swing. Nothing jumps off the page, but nothing concerning either. Wade Griffin is expanding the zone more than usual. Chasing breaking balls down and away."
+SN-0402,H-140,Bob Irving,2026-05-18,Steady performer. Wade Griffin is doing what he always does - consistent at-bats with average power.
+SN-0403,H-140,Dave Bailey,2026-07-30,Steady performer. Wade Griffin is doing what he always does - consistent at-bats with average power. Pitch selection is fine. Wade Griffin will chase occasionally but generally lays off bad pitches.
+SN-0404,H-140,Gary Jenkins,2026-07-31,Wade Griffin is chasing more pitches out of the zone. Discipline has slipped in the last few weeks.
+SN-0405,H-141,Rick Klein,2026-07-02,Athletic swing. Quinn Carroll uses his lower half well and generates bat speed efficiently. Steady performer. Quinn Carroll is doing what he always does - consistent at-bats with average power.
+SN-0406,H-141,Pat Palmer,2026-07-11,Mechanics look clean. Quinn Carroll has a compact swing with good extension through contact. Approach is league average. Quinn Carroll swings at strikes and takes balls at a normal rate.
+SN-0407,H-141,Ted Klein,2026-08-04,Solid approach at the plate. Quinn Carroll is laying off tough pitches and staying within the strike zone.
+SN-0408,H-142,Jim Thornton,2026-04-19,"Logan Jordan has a repeatable swing. Nothing jumps off the page, but nothing concerning either."
+SN-0409,H-142,Mike Monroe,2026-05-24,Bat looks a touch slower lately. Logan Jordan is getting to fastballs late and fouling them off.
+SN-0410,H-142,Jim Adams,2026-06-05,Logan Jordan has made an adjustment to a more upward swing path. Early returns are encouraging.
+SN-0411,H-142,Joe Dawkins,2026-09-02,Swing has gotten long. Logan Jordan is wrapping the bat and losing bat speed through the zone.
+SN-0412,H-143,Ken Ortega,2026-04-12,Solid approach at the plate. Noah Torres is laying off tough pitches and staying within the strike zone. No major red flags. Noah Torres is putting together competitive at-bats.
+SN-0413,H-143,Ken Russo,2026-07-23,Noah Torres has made an adjustment to a more upward swing path. Early returns are encouraging.
+SN-0414,H-144,Tom Quinn,2026-07-20,Discipline at the plate is elite. Jose Robinson rarely chases and punishes mistakes in the zone.
+SN-0415,H-144,Tom Palmer,2026-08-09,No major red flags. Jose Robinson is putting together competitive at-bats. Swing has gotten long. Jose Robinson is wrapping the bat and losing bat speed through the zone.
+SN-0416,H-144,Joe Hayes,2026-09-03,The bat speed just is not there right now. Jose Robinson looks like he is swinging through molasses.
+SN-0417,H-145,Pat Klein,2026-04-13,"Steady performer. Caleb Reyes is doing what he always does - consistent at-bats with average power. Caleb Reyes has a repeatable swing. Nothing jumps off the page, but nothing concerning either."
+SN-0418,H-145,Walt Russo,2026-07-13,Pitch selection is fine. Caleb Reyes will chase occasionally but generally lays off bad pitches.
+SN-0419,H-145,Ted Irving,2026-08-07,Launch angles are flat. Caleb Reyes is beating the ball into the ground instead of driving it. Bat looks a touch slower lately. Caleb Reyes is getting to fastballs late and fouling them off.
+SN-0420,H-145,Pat Klein,2026-08-09,Power numbers are trending up. Caleb Reyes has found a swing plane that produces hard contact. Solid approach at the plate. Caleb Reyes is laying off tough pitches and staying within the strike zone.
+SN-0421,H-146,Joe Russo,2026-05-18,No major red flags. Devon Smith is putting together competitive at-bats. Average bat speed and contact quality. Devon Smith is a solid but not spectacular hitter.
+SN-0422,H-146,Bill Sherman,2026-08-11,Bat looks a touch slower lately. Devon Smith is getting to fastballs late and fouling them off. Approach is league average. Devon Smith swings at strikes and takes balls at a normal rate.
+SN-0423,H-147,Jim Nash,2026-05-18,Approach is league average. Dakota Rodriguez swings at strikes and takes balls at a normal rate. Approach is league average. Dakota Rodriguez swings at strikes and takes balls at a normal rate.
+SN-0424,H-147,Pat Adams,2026-05-20,Approach is league average. Dakota Rodriguez swings at strikes and takes balls at a normal rate. Mechanics look clean. Dakota Rodriguez has a compact swing with good extension through contact.
+SN-0425,H-147,Hank Carson,2026-06-17,Approach is league average. Dakota Rodriguez swings at strikes and takes balls at a normal rate. Average bat speed and contact quality. Dakota Rodriguez is a solid but not spectacular hitter.
+SN-0426,H-147,Mike Dawkins,2026-08-15,Consistent mechanics. Dakota Rodriguez does not change much game to game. Approach is league average. Dakota Rodriguez swings at strikes and takes balls at a normal rate.
+SN-0427,H-148,Charlie Ortega,2026-07-15,Power numbers are trending up. Nathan Stewart has found a swing plane that produces hard contact. Workmanlike at-bats. Nathan Stewart fights off tough pitches and puts the ball in play.
+SN-0428,H-148,Steve Nash,2026-07-19,Bat looks quick through the zone. Nathan Stewart is driving the ball well to all fields.
+SN-0429,H-149,Bill Dawkins,2026-04-10,No major red flags. Tanner McCoy is putting together competitive at-bats.
+SN-0430,H-149,Walt Sherman,2026-05-18,Bat looks quick through the zone. Tanner McCoy is driving the ball well to all fields.
+SN-0431,H-150,Tom Lambert,2026-04-25,Approach is league average. John Cooper swings at strikes and takes balls at a normal rate.
+SN-0432,H-150,Pat Sherman,2026-08-05,Good pitch recognition. John Cooper is not expanding the zone and making pitchers work deep into counts.
