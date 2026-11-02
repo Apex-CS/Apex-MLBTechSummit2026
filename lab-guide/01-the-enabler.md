@@ -1,39 +1,47 @@
 # Module 1: The Enabler
 
 **Time:** 0:10 to 0:25 (15 minutes)
-**Goal:** Tour the governed foundation that was built for you — roles, warehouse, database, schemas, tables, and loaded data — and see how it was set up.
+**Goal:** Use Cortex Code to tour the governed foundation that was built for you — roles, warehouse, database, schemas, tables, and loaded data — and see how it was set up.
 
 ## Context
 
-Every self-service analytics project starts with someone building the foundation. On this lab account, the **enabler** work is already done: the lab team created your role, a shared warehouse, and your own database with a full season of data loaded. In this module you inspect that foundation and see the pattern behind it, so you can repeat it on your own account. For the rest of the lab you work as the **end user**.
+Every self-service analytics project starts with someone building the foundation. On this lab account, the **enabler** work is already done: the lab team created your role, a shared warehouse, and your own database with a full season of data loaded. In this module you use Cortex Code to inspect that foundation and see the pattern behind it, so you can repeat it on your own account. For the rest of the lab you work as the **end user**.
+
+This is also your warm-up with Cortex Code (CoCo): you ask in plain English, and it writes and runs the SQL for you.
 
 Throughout this guide, `<nn>` is the number in your username (for example `USER07` → `07`).
 
 ## Steps
 
-### Step 1: Check your role and workspace
+### Step 1: Open Cortex Code
 
-Run:
+In Snowsight, open **Cortex Code** (the AI assistant panel). Make sure your session is set to:
+- **Role:** `USER<nn>_ROLE`
+- **Database:** `SWING_DOCTOR_<nn>`
+- **Warehouse:** `SWING_DOCTOR_WH`
+
+### Step 2: Check your role and workspace
+
+Give CoCo this prompt:
+
+> Who am I logged in as? Show my current user, role, warehouse, and database, and list every database my role can see.
+
+> **Checkpoint:** You should see `USER<nn>`, `USER<nn>_ROLE`, `SWING_DOCTOR_WH`, and `SWING_DOCTOR_<nn>` — and only one database, `SWING_DOCTOR_<nn>`. Your role owns your database and cannot see anyone else's.
+
+<details>
+<summary>Prefer to run the SQL yourself?</summary>
 
 ```sql
 SELECT CURRENT_USER(), CURRENT_ROLE(), CURRENT_WAREHOUSE(), CURRENT_DATABASE();
-```
-
-> **Checkpoint:** You should see `USER<nn>`, `USER<nn>_ROLE`, `SWING_DOCTOR_WH`, and `SWING_DOCTOR_<nn>`. If the role or database is different, select them in the worksheet's context menu at the top of the editor.
-
-Your role owns your database and everything in it, and it cannot see anyone else's database. Try it:
-
-```sql
 SHOW DATABASES LIKE 'SWING_DOCTOR_%';
 ```
+</details>
 
-You should see only `SWING_DOCTOR_<nn>`.
+### Step 3: Explore the schemas
 
-### Step 2: Explore the schemas
+Give CoCo this prompt:
 
-```sql
-SHOW SCHEMAS IN DATABASE SWING_DOCTOR_<nn>;
-```
+> List the schemas in SWING_DOCTOR_<nn> and the tables in each one.
 
 | Schema | Purpose |
 |--------|---------|
@@ -41,15 +49,11 @@ SHOW SCHEMAS IN DATABASE SWING_DOCTOR_<nn>;
 | CORE | Where you build trusted metrics and views (empty for now) |
 | CONFIG | For configuration tables (used later) |
 
-### Step 3: Verify the loaded data
+### Step 4: Verify the loaded data
 
-```sql
-SELECT 'STG_HITTERS' AS TABLE_NAME, COUNT(*) AS ROW_COUNT FROM RAW.STG_HITTERS
-UNION ALL SELECT 'STG_GAMES', COUNT(*) FROM RAW.STG_GAMES
-UNION ALL SELECT 'STG_SWINGS', COUNT(*) FROM RAW.STG_SWINGS
-UNION ALL SELECT 'STG_PITCHES', COUNT(*) FROM RAW.STG_PITCHES
-UNION ALL SELECT 'STG_SCOUTING_NOTES', COUNT(*) FROM RAW.STG_SCOUTING_NOTES;
-```
+Give CoCo this prompt:
+
+> Show me the row count for every table in the RAW schema.
 
 | Table | Expected Rows |
 |-------|---------------|
@@ -61,16 +65,40 @@ UNION ALL SELECT 'STG_SCOUTING_NOTES', COUNT(*) FROM RAW.STG_SCOUTING_NOTES;
 
 > **Checkpoint:** All five tables have data. If any show 0 rows, raise your hand.
 
-### Step 4: See how it was built
+<details>
+<summary>Prefer to run the SQL yourself?</summary>
 
-Ask Cortex Code:
+```sql
+SELECT 'STG_HITTERS' AS TABLE_NAME, COUNT(*) AS ROW_COUNT FROM RAW.STG_HITTERS
+UNION ALL SELECT 'STG_GAMES', COUNT(*) FROM RAW.STG_GAMES
+UNION ALL SELECT 'STG_SWINGS', COUNT(*) FROM RAW.STG_SWINGS
+UNION ALL SELECT 'STG_PITCHES', COUNT(*) FROM RAW.STG_PITCHES
+UNION ALL SELECT 'STG_SCOUTING_NOTES', COUNT(*) FROM RAW.STG_SCOUTING_NOTES;
+```
+</details>
 
-> Describe the tables in RAW and how they relate to each other.
+### Step 5: Understand the data model
+
+Give CoCo this prompt:
+
+> Describe the tables in RAW and how they relate to each other. Which columns join them, and what does one row in each table represent?
+
+CoCo should tell you that hitters and games are the dimensions, that each swing belongs to one hitter in one game, that `STG_PITCHES` holds every pitch seen (swings and takes), and that scouting notes are free text about a hitter.
+
+Then ask a first question about the data:
+
+> Show me 5 sample rows from RAW.STG_SWINGS and explain what each column means for a hitter.
+
+### Step 6: See how it was built
+
+Give CoCo this prompt:
+
+> Show me the DDL for SWING_DOCTOR_<nn>.RAW.STG_SWINGS and the grants on my database. How would I rebuild this foundation on my own Snowflake account?
 
 The scripts in `setup/trial/` in the lab repo show how to build this same foundation from scratch on your own Snowflake account: roles, an X-Small warehouse, the database and schemas, the landing tables, and a stage with `COPY INTO` loads. The lab team used the same pattern here, then cloned one loaded database for every attendee with zero-copy cloning, so all 150 copies share one set of storage.
 
 ## What you just built
 
-You now know your governed workspace: your own role, a right-sized warehouse, three schemas with clear purposes, and a full season of synthetic bat tracking data. This is the foundation every later module builds on.
+You now know your governed workspace: your own role, a right-sized warehouse, three schemas with clear purposes, and a full season of synthetic bat tracking data. You also know how to work with Cortex Code — ask in plain English, review the SQL it writes, check the result. This is the foundation every later module builds on.
 
 Proceed to [Module 2: Trusted Metrics](02-trusted-metrics.md).
