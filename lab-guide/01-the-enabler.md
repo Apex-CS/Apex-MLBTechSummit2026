@@ -111,11 +111,11 @@ This step is a quick experiment in how to get better answers from an AI assistan
 
 **6a. Ask without a source.** Give CoCo this prompt:
 
-> How would I rebuild this foundation on my own Snowflake account?
+> Show me the DDL for SWING_DOCTOR_<nn>.RAW.STG_SWINGS and the grants on my database. How would I rebuild this foundation on my own Snowflake account?
 
-Read the answer. With nothing to go on, CoCo has to guess: it may suggest data shares, Marketplace listings, downloading data from somewhere else, or asking an administrator for help. None of that is wrong in general, but none of it is how this lab was actually built.
+Read the answer. The DDL and grants come straight from your database, so they are accurate. For the rebuild, though, CoCo has nothing to go on and has to guess: it may suggest data shares, Marketplace listings, downloading data from somewhere else, or asking an administrator for help. None of that is wrong in general, but none of it is how this lab was actually built.
 
-**6b. Ask again, grounded in a real source.** Now point CoCo at the lab's code base:
+**6b. Ask again, grounded in a real source.** Repeat the same prompt, this time pointing CoCo at the lab's code base:
 
 > Show me the DDL for SWING_DOCTOR_<nn>.RAW.STG_SWINGS and the grants on my database. Then explain how I would rebuild this foundation on my own Snowflake trial account using the lab's public repo, https://github.com/Apex-CS/Apex-MLBTechSummit2026. Its setup/trial folder has five scripts run in order: 00_bootstrap_account.sql (roles, warehouse, database, Cortex and Streamlit grants), 01_create_schemas.sql, 02_create_raw_tables.sql, 03_stage_and_load.sql (internal stage plus COPY INTO from the repo's data/ CSVs, uploaded through Snowsight), and 04_verify_load.sql. Summarize what each script does in one or two sentences. Do not run anything.
 
