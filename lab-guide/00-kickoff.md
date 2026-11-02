@@ -21,7 +21,7 @@ Everything runs in the browser. No local installs. No coding experience required
 
 ## Environment check
 
-1. Open [app.snowflake.com](https://app.snowflake.com) in Chrome or Edge
+1. Open [app.snowflake.com](https://app.snowflake.com) in a **new tab** in Chrome or Edge (Ctrl+click on Windows, Cmd+click on Mac) so this guide stays open
 2. Log in with the username and password provided to you (`USER<nn>`)
 3. On first sign-in, Snowflake asks you to set up multi-factor authentication. Choose **Passkey** or **Authenticator** and follow the prompts (have your phone ready). If you get stuck, raise your hand.
 4. Click **Projects** in the left sidebar, then **Worksheets**
