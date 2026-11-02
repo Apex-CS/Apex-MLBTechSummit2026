@@ -105,18 +105,28 @@ Then ask a first question about the data:
 
 > Show me 5 sample rows from RAW.STG_SWINGS and explain what each column means for a hitter.
 
-### Step 6: See how it was built
+### Step 6: See how it was built — and why sources matter
 
-Give CoCo this prompt:
+This step is a quick experiment in how to get better answers from an AI assistant.
 
-> Show me the DDL for SWING_DOCTOR_<nn>.RAW.STG_SWINGS and the grants on my database. Then explain how I would rebuild this foundation on my own Snowflake trial account using the lab's public repo, https://github.com/Apex-CS/Apex-MLBTechSummit2026. Its setup/trial folder has five scripts run in order: 00_bootstrap_account.sql (roles, warehouse, database, Cortex and Streamlit grants), 01_create_schemas.sql, 02_create_raw_tables.sql, 03_stage_and_load.sql (internal stage plus COPY INTO from the repo's data/ CSVs, uploaded through Snowsight), and 04_verify_load.sql. Summarize what each script does in one or two sentences. Do not run anything, and do not suggest data shares, Marketplace listings, or external downloads.
+**6a. Ask without a source.** Give CoCo this prompt:
 
-CoCo should describe a five-step rebuild that uses only the repo: run the bootstrap and schema scripts, create the tables, upload the CSVs from `data/` to the stage and run `COPY INTO`, then verify the row counts. Everything you need is in the repo you downloaded at kickoff. If CoCo starts proposing shares, external data sources, or asking you to contact an administrator, remind it: "Use only the setup/trial scripts and data/ CSVs from the lab repo."
+> How would I rebuild this foundation on my own Snowflake account?
 
-The lab team used the same pattern on this account, then cloned one loaded database for every attendee with zero-copy cloning, so all 150 copies share one set of storage.
+Read the answer. With nothing to go on, CoCo has to guess: it may suggest data shares, Marketplace listings, downloading data from somewhere else, or asking an administrator for help. None of that is wrong in general, but none of it is how this lab was actually built.
+
+**6b. Ask again, grounded in a real source.** Now point CoCo at the lab's code base:
+
+> Show me the DDL for SWING_DOCTOR_<nn>.RAW.STG_SWINGS and the grants on my database. Then explain how I would rebuild this foundation on my own Snowflake trial account using the lab's public repo, https://github.com/Apex-CS/Apex-MLBTechSummit2026. Its setup/trial folder has five scripts run in order: 00_bootstrap_account.sql (roles, warehouse, database, Cortex and Streamlit grants), 01_create_schemas.sql, 02_create_raw_tables.sql, 03_stage_and_load.sql (internal stage plus COPY INTO from the repo's data/ CSVs, uploaded through Snowsight), and 04_verify_load.sql. Summarize what each script does in one or two sentences. Do not run anything.
+
+This time CoCo should describe a five-step rebuild that uses only the repo: run the bootstrap and schema scripts, create the tables, upload the CSVs from `data/` to the stage and run `COPY INTO`, then verify the row counts.
+
+> **The lesson:** an AI assistant is only as good as the context you give it. When a code base, existing scripts, table DDL, or documentation exist, name them in your prompt. You get answers that match how things are actually done in your organization instead of a generic best guess. You will use this habit in every module that follows: each prompt names the exact tables, columns, and rules to use.
+
+The lab team used the same scripts on this account, then cloned one loaded database for every attendee with zero-copy cloning, so all 150 copies share one set of storage.
 
 ## What you just built
 
-You now know your governed workspace: your own role, a right-sized warehouse, three schemas with clear purposes, and a full season of synthetic bat tracking data. You also know how to work with Cortex Code — ask in plain English, review the SQL it writes, check the result. This is the foundation every later module builds on.
+You now know your governed workspace: your own role, a right-sized warehouse, three schemas with clear purposes, and a full season of synthetic bat tracking data. You also know how to work with Cortex Code — ask in plain English, ground your prompt in real sources, review the SQL it writes, check the result. This is the foundation every later module builds on.
 
 Proceed to [Module 2: Trusted Metrics](02-trusted-metrics.md).
