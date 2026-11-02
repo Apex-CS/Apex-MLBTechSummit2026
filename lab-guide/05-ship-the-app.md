@@ -20,7 +20,7 @@ Give CoCo this prompt:
 > 3. An alerts section with two columns: bat speed alerts from CORE.V_BAT_SPEED_ALERTS on the left, and chase rate alerts from CORE.V_CHASE_RATE_ANALYSIS on the right. Show each alert as an expandable card with the hitter name, team, and key numbers.
 > 4. A text input at the bottom labeled "Ask Swing Doctor" where I can type a question in plain English. Use AI_COMPLETE with llama3.3-70b to generate SQL from the question, then run the SQL and show the results.
 >
-> Use my SWING_DOCTOR_<nn> database (replace <nn> with your user number). Connect with st.connection("snowflake"). Cast numeric aggregates such as AVG() to FLOAT in SQL so the chart axes show real values.
+> Use my SWING_DOCTOR_&lt;nn&gt; database (replace &lt;nn&gt; with your user number). Connect with st.connection("snowflake"). Cast numeric aggregates such as AVG() to FLOAT in SQL so the chart axes show real values.
 
 CoCo will generate a complete Python file. Review the code — it should have imports, a connection, sidebar filters, the chart, alert cards, and the question box.
 
@@ -30,7 +30,7 @@ CoCo will generate a complete Python file. Review the code — it should have im
 
 Give CoCo this prompt:
 
-> Deploy this app to Snowflake so I can open it in Snowsight. Put it in SWING_DOCTOR_<nn>.CORE, name it SWING_DOCTOR_APP, and title it 'Swing Doctor <nn>'. Run it on the container runtime using compute pool SYSTEM_COMPUTE_POOL_CPU, warehouse SWING_DOCTOR_WH, and package repository SNOWFLAKE.SNOWPARK.PYPI_SHARED_REPOSITORY. Create whatever files and objects the deployment needs, and finish the whole deployment yourself. When you are done, confirm the app exists and is ready to open.
+> Deploy this app to Snowflake so I can open it in Snowsight. Put it in SWING_DOCTOR_&lt;nn&gt;.CORE, name it SWING_DOCTOR_APP, and title it 'Swing Doctor &lt;nn&gt;'. Run it on the container runtime using compute pool SYSTEM_COMPUTE_POOL_CPU, warehouse SWING_DOCTOR_WH, and package repository SNOWFLAKE.SNOWPARK.PYPI_SHARED_REPOSITORY. Create whatever files and objects the deployment needs, and finish the whole deployment yourself. When you are done, confirm the app exists and is ready to open.
 
 CoCo handles the details: it creates a place to store the app files, writes the app and its package list, creates the app, and makes it live. You do not need to upload anything.
 
@@ -39,7 +39,7 @@ CoCo handles the details: it creates a place to store the app files, writes the 
 <details>
 <summary>Still stuck? Facilitator fallback</summary>
 
-Raise your hand, or run these steps yourself. In Snowsight go to **Data** > **Databases** > **SWING_DOCTOR_<nn>** > **CORE** > **Stages**, create or open **STREAMLIT_STAGE**, click **+ Files**, and upload the app file CoCo wrote (`swing_doctor.py`) plus `app/pyproject.toml` from the lab files. Then run:
+Raise your hand, or run these steps yourself. In Snowsight go to **Data** > **Databases** > **SWING_DOCTOR_&lt;nn&gt;** > **CORE** > **Stages**, create or open **STREAMLIT_STAGE**, click **+ Files**, and upload the app file CoCo wrote (`swing_doctor.py`) plus `app/pyproject.toml` from the lab files. Then run:
 
 ```sql
 CREATE STAGE IF NOT EXISTS CORE.STREAMLIT_STAGE;
